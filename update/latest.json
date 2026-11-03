@@ -1,8 +1,8 @@
 {
-  "version": "1.0.26",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.0.26/HannunStudio-Setup-1.0.26.exe",
-  "sha256": "8de3631756f8ee9419d1de2112eba11fa849eecd25e85d5a538796c1d6750fb4",
-  "size": 111275262,
-  "notes": "숨기기(카드 오른쪽 클릭 · 파일 탭) 추가, 설정 창 폭 줄임",
+  "version": "1.0.27",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.0.27/HannunStudio-Setup-1.0.27.exe",
+  "sha256": "7ce465460c0ad1da1b5c2ffdd1e6323709fc8e7784ac1aa390daa4837ebdee99",
+  "size": 111280305,
+  "notes": "파일 탐색기 보강: 휴지통 삭제 되돌리기, 윈도우 탐색기와 복사·붙여넣기, 속성, 안쪽 폴더까지 찾기, 탭, 마우스로 영역 선택",
   "date": "2026-11-03"
 }

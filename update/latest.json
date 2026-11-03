@@ -1,8 +1,8 @@
 {
-  "version": "1.0.27",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.0.27/HannunStudio-Setup-1.0.27.exe",
-  "sha256": "7ce465460c0ad1da1b5c2ffdd1e6323709fc8e7784ac1aa390daa4837ebdee99",
-  "size": 111280305,
-  "notes": "파일 탐색기 보강: 휴지통 삭제 되돌리기, 윈도우 탐색기와 복사·붙여넣기, 속성, 안쪽 폴더까지 찾기, 탭, 마우스로 영역 선택",
+  "version": "1.1.0",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.1.0/HannunStudio-Setup-1.1.0.exe",
+  "sha256": "980a3d80da992e18484b5024ae2fe3632d85021f43a1b41ba39380f574eb0e39",
+  "size": 111287735,
+  "notes": "1.1: 파일 탭(모든 파일 보기 · 복사/붙여넣기 · 탭 · 되돌리기 · 속성 · 찾기), 숨기기, 도화지에서 보드·슬라이드로 끌어 재생, 터치패드 스크롤 개선, 구간 자르기·녹화·GIF 보강(사진 GIF), 게임 창 크기 맞춤 수정, 영어 번역 보강",
   "date": "2026-11-03"
 }

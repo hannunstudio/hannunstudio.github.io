@@ -1,8 +1,8 @@
 {
-  "version": "1.0.24",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.0.24/HannunStudio-Setup-1.0.24.exe",
-  "sha256": "ceeae9131c1f8f7930e8f4f3b2c8d92b0b9735dbaec704dce6dde5cb5567b815",
-  "size": 111266447,
-  "notes": "레몬스퀴지 정품 키 확인 방식 수정",
+  "version": "1.0.25",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.0.25/HannunStudio-Setup-1.0.25.exe",
+  "sha256": "c25cbd8947cb02f975f83b2cdef5bbc93c7118cb8d7a99c1fb78a0a8fdf41882",
+  "size": 111274216,
+  "notes": "파일 탐색기 탭(모든 파일 보기 · 복사 · 붙여넣기 · 되돌리기 · 끌어서 주고받기), 도화지에서 보드·슬라이드로 끌어 재생",
   "date": "2026-11-03"
 }

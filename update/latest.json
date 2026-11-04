@@ -1,9 +1,9 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.2.1/HannunStudio-Setup-1.2.1.exe",
-  "sha256": "ca4493f64a9611c94b1f5244d2c5d9565583469ce67ff3cd5be4c2c2ad262354",
-  "size": 111338527,
-  "notes": "폰 연결 안정화(잠금 풀면 자동 재연결 · 주소가 바뀌어도 자동으로 찾기), 보안 경고 안내 개선, 시작 프로그램 감시, 위 메뉴 새 모양, 도화지를 지도로 이름 변경, 음악·책 보기",
+  "version": "1.2.2",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.2.2/HannunStudio-Setup-1.2.2.exe",
+  "sha256": "79a4d25f3f97ecddf193b2ec6906e4b72f35ecd649e00a67c8259555a523249e",
+  "size": 111339283,
+  "notes": "업데이트 확인 결과가 항상 보이고 설정을 열면 자동 확인, 배경 사진을 홈 위 카드와 분리하고 모양 선택 추가, 빌드 임시 파일 보안 오탐 제거",
   "date": "2026-11-04",
-  "sig": "dv1cPRzaAbgYoK4e7yn6Lz0mXXzCDjwmoWM-MPQ_Rn4mJ9H6KOtuIOFCOg3pZqPcb1lN-44ykVDZyyMuUFDmAA"
+  "sig": "QaK08UrwrFwhn0HkYH5OeNg_dH4gKTtVz2ns4dIXLklNv0VnDOTB4dZts6EpkGxv-vkgqln1Lgc0qF-49Q-EAQ"
 }

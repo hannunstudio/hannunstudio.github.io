@@ -1,9 +1,9 @@
 {
-  "version": "1.2.5",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.2.5/HannunStudio-Setup-1.2.5.exe",
-  "sha256": "7580198ec8b3280a47280f8da5bdcd6d0cf858d3e9a70c874254419693ba89b2",
-  "size": 111405862,
-  "notes": "홈·내 폴더 위젯 격자(끌기·크기·꾸미기), 예시 배치 5개·내 배치 10개 저장, 이름 번역, 상자 색·투명도·선 색, 설정창 이중 메뉴 수정, 지도 가로/세로 이름 바로잡기",
+  "version": "1.2.6",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.2.6/HannunStudio-Setup-1.2.6.exe",
+  "sha256": "62b89e4d4a903ccfa56499f62eb5cbbd3f75f1ba2c8da7d68c753013decf612f",
+  "size": 111426538,
+  "notes": "보기 목록 새 화면 모양(사이드바·묶음·목록+상세·칸반·타임라인·피드, 사진 부채꼴·펼침·콜라주·필름), 책 서재와 읽기 모양(한 쪽·두 쪽·이어서·메모·집중), 문서(docx·xlsx·pptx) 보기, 음악 플레이어 표지·흐름·이퀄라이저, 보드 정리(앱 안 고르기·주소 추가 고침), 홈 빠른 미리보기, 지도 형태 저장, 빠른 이동 꾸미기, 위젯 4방향 크기, 게임 폴더 안 미디어 숨김·앨범 표지",
   "date": "2026-11-04",
-  "sig": "UobuFyeekfli6XSH05N5OX_U4TNs1mbTAC5voxwpIJzddroxR0k2JV1c9nA4em0uJQKfR7i8sBGmCxPRhpXSAw"
+  "sig": "JEU9MGuh8QgmV283Do7S1laI9AMM_goxRCRYIEVHaBMer-kSjuFZnRHxW_DbbjLiOUYZXI3aJ1CP1gPU-wURBw"
 }

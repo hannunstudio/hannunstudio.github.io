@@ -1,9 +1,9 @@
 {
-  "version": "1.2.4",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.2.4/HannunStudio-Setup-1.2.4.exe",
-  "sha256": "ca389412e9b17b837fa5e669a878b20b2aaf28ad38269ae7e9c686c25eda6e5e",
-  "size": 111345140,
-  "notes": "설정의 업데이트 확인 결과가 화면에 보이지 않던 문제 수정(결과를 크게 알려 줌)",
+  "version": "1.2.5",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.2.5/HannunStudio-Setup-1.2.5.exe",
+  "sha256": "7580198ec8b3280a47280f8da5bdcd6d0cf858d3e9a70c874254419693ba89b2",
+  "size": 111405862,
+  "notes": "홈·내 폴더 위젯 격자(끌기·크기·꾸미기), 예시 배치 5개·내 배치 10개 저장, 이름 번역, 상자 색·투명도·선 색, 설정창 이중 메뉴 수정, 지도 가로/세로 이름 바로잡기",
   "date": "2026-11-04",
-  "sig": "IsL-Q0hSrvHcbvLUK6RFiVZ7Xn_-MhDQZCg8KlRSPBICvLBM70WHjU4CW0I_ONe2obE_qGuXYZHTQ7V5YSVxAg"
+  "sig": "UobuFyeekfli6XSH05N5OX_U4TNs1mbTAC5voxwpIJzddroxR0k2JV1c9nA4em0uJQKfR7i8sBGmCxPRhpXSAw"
 }

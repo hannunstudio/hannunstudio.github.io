@@ -1,9 +1,9 @@
 {
-  "version": "1.2.3",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.2.3/HannunStudio-Setup-1.2.3.exe",
-  "sha256": "d2b62c6bca8c85619c86c270e4c4f1c09c1c2384a6c7c2cad56e2cba468516c7",
-  "size": 111344890,
-  "notes": "홈 꾸미기(줄 순서·숨기기·새 줄), 룩 팩(사진까지 저장·공유), 왼쪽·오른쪽 칸 사진, 배경 위치·확대·밝기 조절, 탭을 칸 사이로 끌어 옮기기, 폴더 보호 차단 줄임",
+  "version": "1.2.4",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.2.4/HannunStudio-Setup-1.2.4.exe",
+  "sha256": "ca389412e9b17b837fa5e669a878b20b2aaf28ad38269ae7e9c686c25eda6e5e",
+  "size": 111345140,
+  "notes": "설정의 업데이트 확인 결과가 화면에 보이지 않던 문제 수정(결과를 크게 알려 줌)",
   "date": "2026-11-04",
-  "sig": "38n-3K7b1aYUXanK0E0KILFhUBBMYWmQ_JUoektxf0CN07f6ZG0foWYKwWEO-bMndZV5iYOC1aXDDAA6v8rmDQ"
+  "sig": "IsL-Q0hSrvHcbvLUK6RFiVZ7Xn_-MhDQZCg8KlRSPBICvLBM70WHjU4CW0I_ONe2obE_qGuXYZHTQ7V5YSVxAg"
 }

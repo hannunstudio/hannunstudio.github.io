@@ -1,9 +1,9 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.2.0/HannunStudio-Setup-1.2.0.exe",
-  "sha256": "4b8608edbb6253b5cf956a8b684d86b4172d2892b6450cd4714b1e47ec3479c3",
-  "size": 111334994,
-  "notes": "음악·책 보기 추가, 보기/엔터 메뉴 정리, 모든 종류에 ✔ 표시·북마크·캡처·녹화, 내 폴더·정리 합치기, 중복 파일 찾기, 도화지 가로/세로",
+  "version": "1.2.1",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.2.1/HannunStudio-Setup-1.2.1.exe",
+  "sha256": "ca4493f64a9611c94b1f5244d2c5d9565583469ce67ff3cd5be4c2c2ad262354",
+  "size": 111338527,
+  "notes": "폰 연결 안정화(잠금 풀면 자동 재연결 · 주소가 바뀌어도 자동으로 찾기), 보안 경고 안내 개선, 시작 프로그램 감시, 위 메뉴 새 모양, 도화지를 지도로 이름 변경, 음악·책 보기",
   "date": "2026-11-04",
-  "sig": "4dbFeztntU5iYM8QvWJCvxvcyPGCXvJWHfZBMiE3GXR9ys-cTAKCJUx9RDDZ8JXITyqxvKr16abOpaaeRXISDQ"
+  "sig": "dv1cPRzaAbgYoK4e7yn6Lz0mXXzCDjwmoWM-MPQ_Rn4mJ9H6KOtuIOFCOg3pZqPcb1lN-44ykVDZyyMuUFDmAA"
 }

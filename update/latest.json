@@ -1,9 +1,9 @@
 {
-  "version": "1.3.1",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.3.1/HannunStudio-Setup-1.3.1.exe",
-  "sha256": "4c87a71778511a625a047a554fb639b37cfc14b816110c7682997e05549f88ee",
-  "size": 112843491,
-  "notes": "음악 미니 플레이어 · 영상 소리 따로 · 곡 정보와 표지 · 큐와 내 목록 · 가사 화면",
+  "version": "1.3.2",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.3.2/HannunStudio-Setup-1.3.2.exe",
+  "sha256": "321a5d71a5ccb1fad83454e03ff52ae71f095bd040fa3746da4b413440df4cb7",
+  "size": 112871988,
+  "notes": "설정 파일 자동 복구·오류 기록·진단 정보 저장, 첫 실행 시작 가이드(F1), 보드 도구줄 위치 이동, 끌어서 정리(멀티 패널·보드·찜·숨기기·휴지통), 사진 부채꼴·간격·로딩 개선",
   "date": "2026-11-05",
-  "sig": "v4JsUuphwniVZackAvK3ODcDs8JH3kxgsjYBo49xLh5-QPOEeLaEmVVveSIEGlLeu9GIZDUev9pdpHpJ6GxrAw"
+  "sig": "LBo9DPWZcIKVSmPnm74sl9BmvmA2JNrwr_yqk_Bl60yFk_hBM1xNChvCY6kjBoREqFveh7lwRaO4MyK2YohQBA"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.3.0/HannunStudio-Setup-1.3.0.exe",
-  "sha256": "fea8a4714956c0b32a3b35e5aa274e145777116ed3987081089c1ddb147d4955",
-  "size": 112665186,
-  "notes": "상세 정보 옆 패널(표지·정보 접기·안쪽 파일) · 설정 스크롤 유지 · PDF를 책처럼 다듬기",
+  "version": "1.3.1",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.3.1/HannunStudio-Setup-1.3.1.exe",
+  "sha256": "4c87a71778511a625a047a554fb639b37cfc14b816110c7682997e05549f88ee",
+  "size": 112843491,
+  "notes": "음악 미니 플레이어 · 영상 소리 따로 · 곡 정보와 표지 · 큐와 내 목록 · 가사 화면",
   "date": "2026-11-05",
-  "sig": "wH2EYyqx8AzWvGYHs3aG_PGqhpNnuS_fGwkynzZYdq2ofR2qH1EtRjfYUggPXtsBw7uf3DI6SZHRkrFGkLuoCw"
+  "sig": "v4JsUuphwniVZackAvK3ODcDs8JH3kxgsjYBo49xLh5-QPOEeLaEmVVveSIEGlLeu9GIZDUev9pdpHpJ6GxrAw"
 }

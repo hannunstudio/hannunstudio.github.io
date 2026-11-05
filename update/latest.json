@@ -1,9 +1,9 @@
 {
-  "version": "1.2.6",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.2.6/HannunStudio-Setup-1.2.6.exe",
-  "sha256": "62b89e4d4a903ccfa56499f62eb5cbbd3f75f1ba2c8da7d68c753013decf612f",
-  "size": 111426538,
-  "notes": "보기 목록 새 화면 모양(사이드바·묶음·목록+상세·칸반·타임라인·피드, 사진 부채꼴·펼침·콜라주·필름), 책 서재와 읽기 모양(한 쪽·두 쪽·이어서·메모·집중), 문서(docx·xlsx·pptx) 보기, 음악 플레이어 표지·흐름·이퀄라이저, 보드 정리(앱 안 고르기·주소 추가 고침), 홈 빠른 미리보기, 지도 형태 저장, 빠른 이동 꾸미기, 위젯 4방향 크기, 게임 폴더 안 미디어 숨김·앨범 표지",
-  "date": "2026-11-04",
-  "sig": "JEU9MGuh8QgmV283Do7S1laI9AMM_goxRCRYIEVHaBMer-kSjuFZnRHxW_DbbjLiOUYZXI3aJ1CP1gPU-wURBw"
+  "version": "1.2.7",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.2.7/HannunStudio-Setup-1.2.7.exe",
+  "sha256": "d71f127a61d4f04ff3dbb28a03de12e3b4ebb0e0c691970838447f4778283895",
+  "size": 111430017,
+  "notes": "책·사진 화면 위쪽 정리: ⋯ 더보기에서 배치 예시를 고르고(마우스를 올리면 미리 보임) 단추를 직접 옮길 수 있어요. 책 화면은 가만히 있으면 막대가 숨어요.",
+  "date": "2026-11-05",
+  "sig": "COLLayL2AdP0ytkeuguf5W4oohXs4pKqc54rBTG3BPBh-8BqzePkaqK9m-eOZ8rklQ8vv_fNuF_gAYBnTUgyBw"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.2.8",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.2.8/HannunStudio-Setup-1.2.8.exe",
-  "sha256": "8aa8c19c18cb57494aa770c0cbcb0443ef0bdef108e63cd23fb2e907b65b5e25",
-  "size": 111431369,
-  "notes": "PDF 빈 화면 고침 · 음악 화면 조작을 오른쪽으로(왼쪽은 폴더형) · 게임 소리 끄기 단추 · 숨기기 단추와 숨긴 모음",
+  "version": "1.2.9",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.2.9/HannunStudio-Setup-1.2.9.exe",
+  "sha256": "17a2b664e82cbb97464805bbb19fc427e1c6193c996ca28351f37290cc5be79f",
+  "size": 112664603,
+  "notes": "PDF를 책처럼: 이어서·한 쪽·두 쪽 · 목차 · 북마크 · 테마 · 집중 모드 안내 · 영상 플레이어 더보기 정리",
   "date": "2026-11-05",
-  "sig": "IK2evBFJwXtUICB2z_uGWVXBMGrLZysPtD4vgqIBBP9_xmnWpwKErocyLbYrwmNUpUwB3xY_hXTjSpzFj5MWAQ"
+  "sig": "FH46wq-biU3kUBQx6-prLS88HgucZyCgobGv05f-RgZfql_bJCWZLA7zFvWALfg3MOCPFo20LkSJav9gAWwDAA"
 }

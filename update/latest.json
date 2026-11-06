@@ -1,9 +1,9 @@
 {
-  "version": "1.3.7",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.3.7/HannunStudio-Setup-1.3.7.exe",
-  "sha256": "e0b02edaf212050d55c78c82b797ae94ec23cfc8c82c2968874441e6233c153d",
-  "size": 112892341,
-  "notes": "지도 위젯 · 프리셋 단추(영화용·애니용 배치 저장) · 선택한 글 번역(오른쪽 클릭, 감지된 언어→내 언어) · 번역 설정 · 어디서든 끌기(Shift로 탐색기에 꺼내기)",
+  "version": "1.3.8",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.3.8/HannunStudio-Setup-1.3.8.exe",
+  "sha256": "f6e4111ea04382fffb558b5de75dfaffe57385b43b34428ce694100c0f7be513",
+  "size": 112892732,
+  "notes": "대작 게임 붙이기 개선(런처가 띄운 게임 창 찾기 · 창이 잠깐 사라져도 끝난 걸로 보지 않기 · 다시 찾기 단추)",
   "date": "2026-11-06",
-  "sig": "dErKHzSXyAmrp6c5KVPhtLQ5IIdc2DduB7NMFKrL_WFTtZItEnIPy1d4j7CU_t8v0YL6JML1Tj9fW52ek9HSBw"
+  "sig": "pWYo0XJgerQzzeiwq1viNTbAZcPjBTxLgjXT4U8_7Sb7AUr5r69OA0AurjYOa4aLj8bGnFUZqMwl0ntBDQmsCQ"
 }

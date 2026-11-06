@@ -1,9 +1,9 @@
 {
-  "version": "1.3.5",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.3.5/HannunStudio-Setup-1.3.5.exe",
-  "sha256": "d52fc7758b1686726832b42f82bf8355b1406f12c8882845933b0852f4340682",
-  "size": 112893219,
-  "notes": "게임 옆 패널 새 디자인(도구 모음·세이브 폴더 열기/백업·메모) · 종료 확인창 · 게임 표지 자동 보정 · 영상 안 자막 · 체험 30일",
+  "version": "1.3.6",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.3.6/HannunStudio-Setup-1.3.6.exe",
+  "sha256": "c468441c11be3a94b361a36a72472504b9492141f1498906f32c20c0ca31ff09",
+  "size": 112899132,
+  "notes": "홈 위젯 11종 추가(오늘 뭐 볼까·이번 주 기록·디스크·중복 후보·스톱워치·단위 변환·바로가기·습관·날씨·환율·내 별점) · 엔터에 감상 기록·링크북·라디오 · 게임 플레이 시간 · 의견 보내기",
   "date": "2026-11-06",
-  "sig": "xe8Hg8LuNV2AS4GFmtM7x7lMrgUUgRaN_ljsvs6wbRkUnLgz-SdAGkJzmxkBkAFZSo_tIdVFDnlbVnT2S4e4CQ"
+  "sig": "yu4fB0-mmKEbYNoRrN4MB4MH9nd1RX4khYzl9wSKZBBBEpRFlQfoTBG3Iu_FtfkO2NUvTulp-EisJGy_DJljCw"
 }

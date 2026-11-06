@@ -1,9 +1,9 @@
 {
-  "version": "1.4.3",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.3/HannunStudio-Setup-1.4.3.exe",
-  "sha256": "4a76dd28992d103f61727a5fac25b833c9ecaad598509c55584fcced809c5a4a",
-  "size": 142666863,
-  "notes": "끌기 보강(폴더 카드도 끌기) · 중지된 키를 인터넷으로 끄는 서명 목록 · 공식 파일 확인 안내",
+  "version": "1.4.4",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.4/HannunStudio-Setup-1.4.4.exe",
+  "sha256": "3ee98cf48c117d4fc83b905539833f165c9fecd791925fed947295eab2ca4094",
+  "size": 142666511,
+  "notes": "사진을 빨리 넘길 때 까만 화면이 안 뜨게 미리 받아 두는 양을 늘렸어요",
   "date": "2026-11-06",
-  "sig": "jQ3qL0VKnvRENEVgIUl7VmhlpheBWy8qHoYJCM7voo84d7wAnpsgjARJg4m-4B_NKLPs_30d0j7s1HnwPz18Aw"
+  "sig": "HlAHata4QMQG7LOmEpJoxRo2GK9KtbKg3fr5oT_cmfZbFWTHGGFigl0IDqSz8-jaxee19hY9fsGxbxh-klX6BA"
 }

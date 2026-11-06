@@ -1,9 +1,9 @@
 {
-  "version": "1.4.7",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.7/HannunStudio-Setup-1.4.7.exe",
-  "sha256": "ae83908c0aa8692b904bf885b29f76988896b8d274e436a9e8afea022c9d3d7f",
-  "size": 142674892,
-  "notes": "선택한 카드에 빛나는 띠 · Now Loading 표지 거르기 · 안전한 게임은 켜서 첫 화면 찍기",
+  "version": "1.4.8",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.8/HannunStudio-Setup-1.4.8.exe",
+  "sha256": "10f313591cabe8b9ff0476d124a7d997f30d5b64d4faf544b9ada9b7c0281fd0",
+  "size": 142675223,
+  "notes": "끌어서 고르는 동안 미리보기 안 뜸",
   "date": "2026-11-06",
-  "sig": "aCCa-MMP_1SRcZb5N7tU8Xu1GhyU6mtiRBpE87QV31QUJzL-qzZsHLLdwiEL938n3HAAPakalpHCxKm-QV-YDQ"
+  "sig": "Vx2Ni-0Me-pjWeLOpBKJzd4IYClQ91fn1XCFQjiFQrBvg6bNNr5_88bpAkOEkg5YLWDor1jIuLcMZRLyX8TyAg"
 }

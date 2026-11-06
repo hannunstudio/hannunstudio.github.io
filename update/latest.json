@@ -1,9 +1,9 @@
 {
-  "version": "1.3.6",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.3.6/HannunStudio-Setup-1.3.6.exe",
-  "sha256": "c468441c11be3a94b361a36a72472504b9492141f1498906f32c20c0ca31ff09",
-  "size": 112899132,
-  "notes": "홈 위젯 11종 추가(오늘 뭐 볼까·이번 주 기록·디스크·중복 후보·스톱워치·단위 변환·바로가기·습관·날씨·환율·내 별점) · 엔터에 감상 기록·링크북·라디오 · 게임 플레이 시간 · 의견 보내기",
+  "version": "1.3.7",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.3.7/HannunStudio-Setup-1.3.7.exe",
+  "sha256": "e0b02edaf212050d55c78c82b797ae94ec23cfc8c82c2968874441e6233c153d",
+  "size": 112892341,
+  "notes": "지도 위젯 · 프리셋 단추(영화용·애니용 배치 저장) · 선택한 글 번역(오른쪽 클릭, 감지된 언어→내 언어) · 번역 설정 · 어디서든 끌기(Shift로 탐색기에 꺼내기)",
   "date": "2026-11-06",
-  "sig": "yu4fB0-mmKEbYNoRrN4MB4MH9nd1RX4khYzl9wSKZBBBEpRFlQfoTBG3Iu_FtfkO2NUvTulp-EisJGy_DJljCw"
+  "sig": "dErKHzSXyAmrp6c5KVPhtLQ5IIdc2DduB7NMFKrL_WFTtZItEnIPy1d4j7CU_t8v0YL6JML1Tj9fW52ek9HSBw"
 }

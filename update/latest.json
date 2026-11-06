@@ -1,9 +1,9 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.0/HannunStudio-Setup-1.4.0.exe",
-  "sha256": "a2c90a2d61cc168829cbbeee64340afa9103e446bc9e64a8f3288c4744919365",
-  "size": 142664178,
-  "notes": "영상 음성 트랙 고르기 (여러 언어 · 해설 소리 중 선택)",
+  "version": "1.4.1",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.1/HannunStudio-Setup-1.4.1.exe",
+  "sha256": "d23b8dee0bc5e1302c6bdfafb36e70200d1fb1c96f434df83971663627039a8a",
+  "size": 142664923,
+  "notes": "끌어서 놓는 칸에 오른쪽 클릭 메뉴의 일을 전부 추가",
   "date": "2026-11-06",
-  "sig": "pDMBOHf72eTjsE3aoIxp-NwdM6qV9CUXTxIM6WfAOdFRLUnMT6yiGw8VYZclUnMNih3LsgoCXkdnagOaepv8DQ"
+  "sig": "K4ht0Rk8ZnNTp8itEdjR-2965iha72qGA5abmwn4iMh1OzPksei9-C3tBERTl_9K_DAtLliqxup07EEzShTUDA"
 }

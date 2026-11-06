@@ -1,9 +1,9 @@
 {
-  "version": "1.3.9",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.3.9/HannunStudio-Setup-1.3.9.exe",
-  "sha256": "f3c2706eaea1bbd76bce7ff5714eb3bb69b3c4b11eac89baab175cf4ec861281",
-  "size": 142662282,
-  "notes": "내장 번역 엔진(인터넷 없이, 200개 언어) · 영상 자막도 내 언어로 번역 · 영어 화면 문구 보강 · '다른 PC로 옮기기'로 이름 정리",
+  "version": "1.4.0",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.0/HannunStudio-Setup-1.4.0.exe",
+  "sha256": "a2c90a2d61cc168829cbbeee64340afa9103e446bc9e64a8f3288c4744919365",
+  "size": 142664178,
+  "notes": "영상 음성 트랙 고르기 (여러 언어 · 해설 소리 중 선택)",
   "date": "2026-11-06",
-  "sig": "3xSmloDl92ynZtGhpTYRJtnj5RyDHzQGrAPyBHd8_j0zHfNxgVSS_jQJSg8qSL_WE7_qgJS69u5jDJgAuu__CQ"
+  "sig": "pDMBOHf72eTjsE3aoIxp-NwdM6qV9CUXTxIM6WfAOdFRLUnMT6yiGw8VYZclUnMNih3LsgoCXkdnagOaepv8DQ"
 }

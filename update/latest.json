@@ -1,9 +1,9 @@
 {
-  "version": "1.4.5",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.5/HannunStudio-Setup-1.4.5.exe",
-  "sha256": "2814864c08938b2f655786608f8e621051839a3e7de4d0a23f834f7a274ad422",
-  "size": 142670074,
-  "notes": "카드 안에서 폴더 열기(미리보기·정보) · 폴더 용량 끝까지 계산 · 크게 보기 위에서도 끌기 · 꾸미기 중 스크롤바 잡기 · 자동 내리기 속도 직접 정하기 · 빨리 내릴 때 사진 더 빨리 채우기",
+  "version": "1.4.6",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.6/HannunStudio-Setup-1.4.6.exe",
+  "sha256": "6a0a4711591cb3df2583cbd9757150b09684111e381995decb2dbbc479a3a13a",
+  "size": 142674413,
+  "notes": "게임 첫 화면 자동 표지 · 빈 곳 끌어서 여러 개 고르기 · 폴더 용량 빨리 · 속성에서 바로 · 게임 상세창 정리",
   "date": "2026-11-06",
-  "sig": "kl68e5t7GBtxHu5t6xodbXtfn3rWshr9QVSc4xZE-N2OKq37fQWKThLDEPJkHlaS_kixHsaj078TLae9xEzEDw"
+  "sig": "HyqabHfksQpgc-m0oR3HfOLNYeOSbIyFRc4KiJ3c1kXvBB7N6yQhZdFCGY-bUzvkD2IjKGD0y_0CI72EmaYVAw"
 }

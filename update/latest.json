@@ -1,9 +1,9 @@
 {
-  "version": "1.4.9",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.9/HannunStudio-Setup-1.4.9.exe",
-  "sha256": "faf1b24a87f197afa82da68ea0377a6df468c16b62013b39a7405e1140a87f5e",
-  "size": 142675703,
-  "notes": "안 보이게 찍는 게임의 알림창이 화면에 뜨지 않게",
+  "version": "1.5.0",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.5.0/HannunStudio-Setup-1.5.0.exe",
+  "sha256": "d91d87ec42bc087dfea6347d1c7557082222125d3eb4d132d6ace709227d13fa",
+  "size": 142675865,
+  "notes": "앱 모양 지우기 확인창 · 오른쪽 클릭 이름 번역(화면 언어로)",
   "date": "2026-11-06",
-  "sig": "dbEes2ttwIR0KVelZwAKbb4OdfCc51eL67qci-TOQXNLCFCkwfC7_hqsu6xWKa4kEB1hdHAcp4vo8ELD_gEkDA"
+  "sig": "6g5mGjR19W227g2iaL7GrDrf9U9FfGfDUc0ppsL2qQhgMD6gxCPRvArhwB_j0UckzrtCtww8PkudGmwDXpXHCA"
 }

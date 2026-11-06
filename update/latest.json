@@ -1,9 +1,9 @@
 {
-  "version": "1.4.2",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.2/HannunStudio-Setup-1.4.2.exe",
-  "sha256": "8ece85b7b3cd367707be0c5180d137d3b51b6a0d3d491a2946d99e5f8fcf67fc",
-  "size": 142666156,
-  "notes": "내 폴더에서 폴더를 누르면 카드 모양 그대로 열려요 · 카드를 그냥 끌면 탐색기 · 바탕화면으로 파일이 나가요 (놓을 곳 상자도 같이)",
+  "version": "1.4.3",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.3/HannunStudio-Setup-1.4.3.exe",
+  "sha256": "4a76dd28992d103f61727a5fac25b833c9ecaad598509c55584fcced809c5a4a",
+  "size": 142666863,
+  "notes": "끌기 보강(폴더 카드도 끌기) · 중지된 키를 인터넷으로 끄는 서명 목록 · 공식 파일 확인 안내",
   "date": "2026-11-06",
-  "sig": "gtd7p-MAiBEXWKbL-qCFfzKGu-pXTHpjR6ZsEFLvNb_6DcrByhqr2tDuFFJPjA8irUzrM7dN3xkYtK3W_eceDw"
+  "sig": "jQ3qL0VKnvRENEVgIUl7VmhlpheBWy8qHoYJCM7voo84d7wAnpsgjARJg4m-4B_NKLPs_30d0j7s1HnwPz18Aw"
 }

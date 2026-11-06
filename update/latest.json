@@ -1,9 +1,9 @@
 {
-  "version": "1.4.6",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.6/HannunStudio-Setup-1.4.6.exe",
-  "sha256": "6a0a4711591cb3df2583cbd9757150b09684111e381995decb2dbbc479a3a13a",
-  "size": 142674413,
-  "notes": "게임 첫 화면 자동 표지 · 빈 곳 끌어서 여러 개 고르기 · 폴더 용량 빨리 · 속성에서 바로 · 게임 상세창 정리",
+  "version": "1.4.7",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.7/HannunStudio-Setup-1.4.7.exe",
+  "sha256": "ae83908c0aa8692b904bf885b29f76988896b8d274e436a9e8afea022c9d3d7f",
+  "size": 142674892,
+  "notes": "선택한 카드에 빛나는 띠 · Now Loading 표지 거르기 · 안전한 게임은 켜서 첫 화면 찍기",
   "date": "2026-11-06",
-  "sig": "HyqabHfksQpgc-m0oR3HfOLNYeOSbIyFRc4KiJ3c1kXvBB7N6yQhZdFCGY-bUzvkD2IjKGD0y_0CI72EmaYVAw"
+  "sig": "aCCa-MMP_1SRcZb5N7tU8Xu1GhyU6mtiRBpE87QV31QUJzL-qzZsHLLdwiEL938n3HAAPakalpHCxKm-QV-YDQ"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.4.1",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.1/HannunStudio-Setup-1.4.1.exe",
-  "sha256": "d23b8dee0bc5e1302c6bdfafb36e70200d1fb1c96f434df83971663627039a8a",
-  "size": 142664923,
-  "notes": "끌어서 놓는 칸에 오른쪽 클릭 메뉴의 일을 전부 추가",
+  "version": "1.4.2",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.2/HannunStudio-Setup-1.4.2.exe",
+  "sha256": "8ece85b7b3cd367707be0c5180d137d3b51b6a0d3d491a2946d99e5f8fcf67fc",
+  "size": 142666156,
+  "notes": "내 폴더에서 폴더를 누르면 카드 모양 그대로 열려요 · 카드를 그냥 끌면 탐색기 · 바탕화면으로 파일이 나가요 (놓을 곳 상자도 같이)",
   "date": "2026-11-06",
-  "sig": "K4ht0Rk8ZnNTp8itEdjR-2965iha72qGA5abmwn4iMh1OzPksei9-C3tBERTl_9K_DAtLliqxup07EEzShTUDA"
+  "sig": "gtd7p-MAiBEXWKbL-qCFfzKGu-pXTHpjR6ZsEFLvNb_6DcrByhqr2tDuFFJPjA8irUzrM7dN3xkYtK3W_eceDw"
 }

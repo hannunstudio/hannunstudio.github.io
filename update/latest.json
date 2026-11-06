@@ -1,9 +1,9 @@
 {
-  "version": "1.3.8",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.3.8/HannunStudio-Setup-1.3.8.exe",
-  "sha256": "f6e4111ea04382fffb558b5de75dfaffe57385b43b34428ce694100c0f7be513",
-  "size": 112892732,
-  "notes": "대작 게임 붙이기 개선(런처가 띄운 게임 창 찾기 · 창이 잠깐 사라져도 끝난 걸로 보지 않기 · 다시 찾기 단추)",
+  "version": "1.3.9",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.3.9/HannunStudio-Setup-1.3.9.exe",
+  "sha256": "f3c2706eaea1bbd76bce7ff5714eb3bb69b3c4b11eac89baab175cf4ec861281",
+  "size": 142662282,
+  "notes": "내장 번역 엔진(인터넷 없이, 200개 언어) · 영상 자막도 내 언어로 번역 · 영어 화면 문구 보강 · '다른 PC로 옮기기'로 이름 정리",
   "date": "2026-11-06",
-  "sig": "pWYo0XJgerQzzeiwq1viNTbAZcPjBTxLgjXT4U8_7Sb7AUr5r69OA0AurjYOa4aLj8bGnFUZqMwl0ntBDQmsCQ"
+  "sig": "3xSmloDl92ynZtGhpTYRJtnj5RyDHzQGrAPyBHd8_j0zHfNxgVSS_jQJSg8qSL_WE7_qgJS69u5jDJgAuu__CQ"
 }

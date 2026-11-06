@@ -1,9 +1,9 @@
 {
-  "version": "1.4.8",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.8/HannunStudio-Setup-1.4.8.exe",
-  "sha256": "10f313591cabe8b9ff0476d124a7d997f30d5b64d4faf544b9ada9b7c0281fd0",
-  "size": 142675223,
-  "notes": "끌어서 고르는 동안 미리보기 안 뜸",
+  "version": "1.4.9",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.4.9/HannunStudio-Setup-1.4.9.exe",
+  "sha256": "faf1b24a87f197afa82da68ea0377a6df468c16b62013b39a7405e1140a87f5e",
+  "size": 142675703,
+  "notes": "안 보이게 찍는 게임의 알림창이 화면에 뜨지 않게",
   "date": "2026-11-06",
-  "sig": "Vx2Ni-0Me-pjWeLOpBKJzd4IYClQ91fn1XCFQjiFQrBvg6bNNr5_88bpAkOEkg5YLWDor1jIuLcMZRLyX8TyAg"
+  "sig": "dbEes2ttwIR0KVelZwAKbb4OdfCc51eL67qci-TOQXNLCFCkwfC7_hqsu6xWKa4kEB1hdHAcp4vo8ELD_gEkDA"
 }

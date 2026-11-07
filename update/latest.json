@@ -1,9 +1,9 @@
 {
-  "version": "1.7.3",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.7.3/HannunStudio-Setup-1.7.3.exe",
-  "sha256": "1ccc9462302253e85f05bc4f62ce2094c8ae019393846854ab16a88152db976d",
-  "size": 142722706,
-  "notes": "게임 표지를 DLsite · VNDB · 스팀에서 제목으로 찾아요",
+  "version": "1.7.4",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.7.4/HannunStudio-Setup-1.7.4.exe",
+  "sha256": "da127429862acce0a41c0ea845b64f6ee8c1a754fa7cd5302a242b08ef429f8c",
+  "size": 142723522,
+  "notes": "재생목록 패널 미리보기 · 오른쪽 위 닫기는 뒤로가기",
   "date": "2026-11-07",
-  "sig": "e5jmAtSd0HRtRKClpgAaT_Ml-U2i_gQ6BsfAH45QGcz4kaViclvwCQ-lPVB6-pnl7hZP1eu_sZtl7LN_qXI4Cw"
+  "sig": "mL6sY_fs5uL_DwMhVf-AtctipXMF2C_OD5stsdewCu33ZwHkP5h7l8-OHVp5UIbYhcSs4XftSM8jnFNlMwHQAA"
 }

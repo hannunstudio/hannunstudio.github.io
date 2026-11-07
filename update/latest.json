@@ -1,9 +1,9 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.6.0/HannunStudio-Setup-1.6.0.exe",
-  "sha256": "d191009a85ae7280beeca0dff6a1bdab4c89d97bcc4097a59a8a89fabee79312",
-  "size": 142697805,
-  "notes": "계절·나라 테마 10종(움직이는 배경), 메모 노트(화면·영상 장면 위에 글자·그림), 홈 위젯 4종, 여러 카드 동시 삭제·적용, 시작 화면",
+  "version": "1.6.1",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.6.1/HannunStudio-Setup-1.6.1.exe",
+  "sha256": "61c2384b08364a89412b3c296601952afe28afca9e0cb34c98dc9bfb328a338a",
+  "size": 142698389,
+  "notes": "영상 옆 패널: 한 번 누르면 미리보기·두 번 누르면 재생, 버튼 항상 보이기 · Shift/Ctrl 카드 선택 · 한 줄 카드 수 설정 · 열린 카드 띠",
   "date": "2026-11-07",
-  "sig": "wrNTL80J_55sd6eCN9SxF-ULbYucJgRJb5DbhaZK1hJj76jHyhdkbDU9BwYUGvanzNS2M9GscrxJqHrvM2ZSCg"
+  "sig": "NbQdKlUOY86tQIYnmTe4-71TYUB274AUI4V3xTf1qLxnX-QY5Wp55ZzCueKjAcQeJEdzq5DarcpeOpM4a1pjBA"
 }

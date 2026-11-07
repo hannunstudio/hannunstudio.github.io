@@ -1,9 +1,9 @@
 {
-  "version": "1.6.1",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.6.1/HannunStudio-Setup-1.6.1.exe",
-  "sha256": "61c2384b08364a89412b3c296601952afe28afca9e0cb34c98dc9bfb328a338a",
-  "size": 142698389,
-  "notes": "영상 옆 패널: 한 번 누르면 미리보기·두 번 누르면 재생, 버튼 항상 보이기 · Shift/Ctrl 카드 선택 · 한 줄 카드 수 설정 · 열린 카드 띠",
+  "version": "1.6.2",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.6.2/HannunStudio-Setup-1.6.2.exe",
+  "sha256": "bdc00e2806847784789815e749ff080e063488f4f14b34d165944ab95c24cebf",
+  "size": 142698629,
+  "notes": "스크롤할 때 검은 빈 카드가 덜 보이게 (그림 미리 만들기)",
   "date": "2026-11-07",
-  "sig": "NbQdKlUOY86tQIYnmTe4-71TYUB274AUI4V3xTf1qLxnX-QY5Wp55ZzCueKjAcQeJEdzq5DarcpeOpM4a1pjBA"
+  "sig": "95zydE2PGBe6sT66M0gDjH-wZV0-vptNVXeEkY09FobEWj-N0OGGDTmtes-IB6r8pJMSycyH-C19iOnyldxSDw"
 }

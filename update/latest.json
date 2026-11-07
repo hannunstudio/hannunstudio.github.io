@@ -1,9 +1,9 @@
 {
-  "version": "1.9.1",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.1/HannunStudio-Setup-1.9.1.exe",
-  "sha256": "a4e33ff4d8f4d735748ecd09b92dfb1af93c10362c451e3ea12359bac1fd1d1f",
-  "size": 142723782,
-  "notes": "안 쓰는 코드와 화면 조각 정리 (속도와 안정성 다듬기)",
+  "version": "1.9.2",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.2/HannunStudio-Setup-1.9.2.exe",
+  "sha256": "5f8b5d9720875b45c421561d79a239df830f840276925d5c4ba0928d4a37f08b",
+  "size": 142724784,
+  "notes": "코드 정리 (큰 파일을 기능별로 나눔) · 속도와 안정성 다듬기",
   "date": "2026-11-07",
-  "sig": "D6TQhIdr4WEtve1nSc3oyO41QuCbbblvy9WGsauddbVk86uD7BO01y75XAeXiNP4RDSuWZRqu9_hivMcziw6Dg"
+  "sig": "bmvuyl-FjwzN5qJpG8d_ccM1iTH46FLOKGR6wiAcQE3OgWNGG6oIwtvMzOS32SmlgNweUJBDo-EbxFVVu60PDw"
 }

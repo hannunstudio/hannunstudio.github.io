@@ -1,9 +1,9 @@
 {
-  "version": "1.7.1",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.7.1/HannunStudio-Setup-1.7.1.exe",
-  "sha256": "f59520bc78dca5fe02b60c6d81520bd825b4f694d73df85502e291e6bec456ff",
-  "size": 142720856,
-  "notes": "게임 표지를 파일 훑을 때 자동으로 더 많이 찾아요",
+  "version": "1.7.2",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.7.2/HannunStudio-Setup-1.7.2.exe",
+  "sha256": "da72d28745ad7bfb8e62adab835f7466d874a8e0c69109e316b8cabf86f09854",
+  "size": 142721877,
+  "notes": "게임 표지를 제목으로도 찾아요 (AI 키가 있으면 일본어 원제로)",
   "date": "2026-11-07",
-  "sig": "YQryMkCwB4rSXlQnMUXgsoCZTlLsVlfcaVYmTRiQWCOPe6KYz98oBZ--vTSS1DyP1ic98SCpHPtdEjnRJJHwAw"
+  "sig": "XVEJ3SYfTYrbgwxPgmbykzuAkLAepxNqm3Xs5iMHGakGyYGesqFdImD0Pa0OYyVYAwiwwaH-2VfOXyp8cqMPBA"
 }

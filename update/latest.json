@@ -1,9 +1,9 @@
 {
-  "version": "1.6.2",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.6.2/HannunStudio-Setup-1.6.2.exe",
-  "sha256": "bdc00e2806847784789815e749ff080e063488f4f14b34d165944ab95c24cebf",
-  "size": 142698629,
-  "notes": "스크롤할 때 검은 빈 카드가 덜 보이게 (그림 미리 만들기)",
+  "version": "1.7.0",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.7.0/HannunStudio-Setup-1.7.0.exe",
+  "sha256": "0d82cf3691a3914663dcbfb356cddb3aeff49728c4726ae985a9567493ab0190",
+  "size": 142719781,
+  "notes": "앱 안 파일 고르기 · 이미지 편집기 · 사진 위에 바로 쓰기 · 재생 목록 패널 · 위젯 끌어 놓기 · 카드 여러 개 선택",
   "date": "2026-11-07",
-  "sig": "95zydE2PGBe6sT66M0gDjH-wZV0-vptNVXeEkY09FobEWj-N0OGGDTmtes-IB6r8pJMSycyH-C19iOnyldxSDw"
+  "sig": "EpOutmhzTPiMHkANXTTOiW-S2blE07UxVU2CfNTzgpreYmBKcCFaRhM4nRxZlgS9qlBgkAziKUGKKT7m6SiRBA"
 }

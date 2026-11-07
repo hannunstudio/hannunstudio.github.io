@@ -1,9 +1,9 @@
 {
-  "version": "1.9.4",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.4/HannunStudio-Setup-1.9.4.exe",
-  "sha256": "6ca392fb76e3f9a03cd4bcd069b0721e8d2491500a6b0f327b80061c4a485b5a",
-  "size": 142726893,
-  "notes": "위젯 후보 목록에서 지도 위젯이 앞쪽에 보이도록",
+  "version": "1.9.5",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.5/HannunStudio-Setup-1.9.5.exe",
+  "sha256": "79864cb9fc4519214d19c9afc537bbeeff7e46858840f7023ebf1bff0b62c5c4",
+  "size": 142726854,
+  "notes": "자동 번역 첫 사용 확인창을 앱 안 창으로 바꿈",
   "date": "2026-11-07",
-  "sig": "gDP4plZPhkahhBoBGgtBKOu873Wfm_jh05Iy0sH0hVe20H58GkxKmJ2FElZrj2sLSUkPXvrgYW2uAosM87B-Ag"
+  "sig": "uTuH2bNJ2gNcu9rD-6gxYGsk3nmaAJbHE9T_5sNFQfd49HvoogFPPBFBAaRG5fwDMBXqcfOimlwRxbPpEAx_CA"
 }

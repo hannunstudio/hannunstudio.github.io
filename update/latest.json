@@ -1,9 +1,9 @@
 {
-  "version": "1.9.3",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.3/HannunStudio-Setup-1.9.3.exe",
-  "sha256": "d1a6cc2e2bb2164b7f3815428485131cb5813e7d5103557f2d2c745c1451cf3b",
-  "size": 142727101,
-  "notes": "게임 옆 [도구] 탭(계산기 · 스톱워치 · 타이머 · 시계 · 메모 펜) · 위젯 꾸미는 중에도 계산기 등 눌림 · 코드 정리",
+  "version": "1.9.4",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.4/HannunStudio-Setup-1.9.4.exe",
+  "sha256": "6ca392fb76e3f9a03cd4bcd069b0721e8d2491500a6b0f327b80061c4a485b5a",
+  "size": 142726893,
+  "notes": "위젯 후보 목록에서 지도 위젯이 앞쪽에 보이도록",
   "date": "2026-11-07",
-  "sig": "xwt41ca5CzDUTBXa-oEnAoWxq2ZztixKtVddcS22oxq1rlSrNdtcolzwgD93nAU3TuNLX3isvVMS-Ln35qx-Aw"
+  "sig": "gDP4plZPhkahhBoBGgtBKOu873Wfm_jh05Iy0sH0hVe20H58GkxKmJ2FElZrj2sLSUkPXvrgYW2uAosM87B-Ag"
 }

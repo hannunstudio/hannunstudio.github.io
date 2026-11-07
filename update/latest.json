@@ -1,9 +1,9 @@
 {
-  "version": "1.9.0",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.0/HannunStudio-Setup-1.9.0.exe",
-  "sha256": "45f8227bce31849a6289a70b8ce91b9338ecb66017e8ace61812624c50ff4276",
-  "size": 142726739,
-  "notes": "색 통일 · 버튼 움직임 · 카드 기울기 · 배경 흐림/확대 · 시간대 자동 테마 · 첫 실행 분위기 고르기 · 렉 방지 자동 모드",
+  "version": "1.9.1",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.1/HannunStudio-Setup-1.9.1.exe",
+  "sha256": "a4e33ff4d8f4d735748ecd09b92dfb1af93c10362c451e3ea12359bac1fd1d1f",
+  "size": 142723782,
+  "notes": "안 쓰는 코드와 화면 조각 정리 (속도와 안정성 다듬기)",
   "date": "2026-11-07",
-  "sig": "QJcUSLFr0bIKwCRU0YJvXlrJbamXBcTp67Faq4r-IvvSfBr_8GTfzSC06Zu1DwTnZC8HDzyZoT1fIy-Lb-fkDA"
+  "sig": "D6TQhIdr4WEtve1nSc3oyO41QuCbbblvy9WGsauddbVk86uD7BO01y75XAeXiNP4RDSuWZRqu9_hivMcziw6Dg"
 }

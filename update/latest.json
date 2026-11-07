@@ -1,9 +1,9 @@
 {
-  "version": "1.7.0",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.7.0/HannunStudio-Setup-1.7.0.exe",
-  "sha256": "0d82cf3691a3914663dcbfb356cddb3aeff49728c4726ae985a9567493ab0190",
-  "size": 142719781,
-  "notes": "앱 안 파일 고르기 · 이미지 편집기 · 사진 위에 바로 쓰기 · 재생 목록 패널 · 위젯 끌어 놓기 · 카드 여러 개 선택",
+  "version": "1.7.1",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.7.1/HannunStudio-Setup-1.7.1.exe",
+  "sha256": "f59520bc78dca5fe02b60c6d81520bd825b4f694d73df85502e291e6bec456ff",
+  "size": 142720856,
+  "notes": "게임 표지를 파일 훑을 때 자동으로 더 많이 찾아요",
   "date": "2026-11-07",
-  "sig": "EpOutmhzTPiMHkANXTTOiW-S2blE07UxVU2CfNTzgpreYmBKcCFaRhM4nRxZlgS9qlBgkAziKUGKKT7m6SiRBA"
+  "sig": "YQryMkCwB4rSXlQnMUXgsoCZTlLsVlfcaVYmTRiQWCOPe6KYz98oBZ--vTSS1DyP1ic98SCpHPtdEjnRJJHwAw"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.9.2",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.2/HannunStudio-Setup-1.9.2.exe",
-  "sha256": "5f8b5d9720875b45c421561d79a239df830f840276925d5c4ba0928d4a37f08b",
-  "size": 142724784,
-  "notes": "코드 정리 (큰 파일을 기능별로 나눔) · 속도와 안정성 다듬기",
+  "version": "1.9.3",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.3/HannunStudio-Setup-1.9.3.exe",
+  "sha256": "d1a6cc2e2bb2164b7f3815428485131cb5813e7d5103557f2d2c745c1451cf3b",
+  "size": 142727101,
+  "notes": "게임 옆 [도구] 탭(계산기 · 스톱워치 · 타이머 · 시계 · 메모 펜) · 위젯 꾸미는 중에도 계산기 등 눌림 · 코드 정리",
   "date": "2026-11-07",
-  "sig": "bmvuyl-FjwzN5qJpG8d_ccM1iTH46FLOKGR6wiAcQE3OgWNGG6oIwtvMzOS32SmlgNweUJBDo-EbxFVVu60PDw"
+  "sig": "xwt41ca5CzDUTBXa-oEnAoWxq2ZztixKtVddcS22oxq1rlSrNdtcolzwgD93nAU3TuNLX3isvVMS-Ln35qx-Aw"
 }

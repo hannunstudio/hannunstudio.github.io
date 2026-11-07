@@ -1,9 +1,9 @@
 {
-  "version": "1.7.4",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.7.4/HannunStudio-Setup-1.7.4.exe",
-  "sha256": "da127429862acce0a41c0ea845b64f6ee8c1a754fa7cd5302a242b08ef429f8c",
-  "size": 142723522,
-  "notes": "재생목록 패널 미리보기 · 오른쪽 위 닫기는 뒤로가기",
+  "version": "1.8.0",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.8.0/HannunStudio-Setup-1.8.0.exe",
+  "sha256": "4d7e4d1b652ec0011a0893902683b73da5a05bdca11fb994aaffeb50affd7e4c",
+  "size": 142724642,
+  "notes": "화면마다 달랐던 제목 · 패널 · 입력칸 · 단추 모양을 하나로 통일",
   "date": "2026-11-07",
-  "sig": "mL6sY_fs5uL_DwMhVf-AtctipXMF2C_OD5stsdewCu33ZwHkP5h7l8-OHVp5UIbYhcSs4XftSM8jnFNlMwHQAA"
+  "sig": "3EadInDQQbogEcovkIOIeFM9YrO_8qxY3rGPbGqrii0FQmev9TocYOiq1ikSTr6jENmc3cC0ZIkWSjq2dj0WBQ"
 }

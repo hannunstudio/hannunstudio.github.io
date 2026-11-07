@@ -1,9 +1,9 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.5.0/HannunStudio-Setup-1.5.0.exe",
-  "sha256": "d91d87ec42bc087dfea6347d1c7557082222125d3eb4d132d6ace709227d13fa",
-  "size": 142675865,
-  "notes": "앱 모양 지우기 확인창 · 오른쪽 클릭 이름 번역(화면 언어로)",
-  "date": "2026-11-06",
-  "sig": "6g5mGjR19W227g2iaL7GrDrf9U9FfGfDUc0ppsL2qQhgMD6gxCPRvArhwB_j0UckzrtCtww8PkudGmwDXpXHCA"
+  "version": "1.6.0",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.6.0/HannunStudio-Setup-1.6.0.exe",
+  "sha256": "d191009a85ae7280beeca0dff6a1bdab4c89d97bcc4097a59a8a89fabee79312",
+  "size": 142697805,
+  "notes": "계절·나라 테마 10종(움직이는 배경), 메모 노트(화면·영상 장면 위에 글자·그림), 홈 위젯 4종, 여러 카드 동시 삭제·적용, 시작 화면",
+  "date": "2026-11-07",
+  "sig": "wrNTL80J_55sd6eCN9SxF-ULbYucJgRJb5DbhaZK1hJj76jHyhdkbDU9BwYUGvanzNS2M9GscrxJqHrvM2ZSCg"
 }

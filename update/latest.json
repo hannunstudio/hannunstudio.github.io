@@ -1,9 +1,9 @@
 {
-  "version": "1.9.91",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.91/HannunStudio-Setup-1.9.91.exe",
-  "sha256": "49640bb0cb6d95b39d242a0c7dc6c367dcd1be25fd356380c0d461a059ffddad",
-  "size": 142728462,
-  "notes": "처음 켤 때 한 화면 빠른 시작 안내",
+  "version": "1.9.92",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.92/HannunStudio-Setup-1.9.92.exe",
+  "sha256": "d36028360f861d6ce7419aed279e200d013c51861748ab93b42c497ad6d71e38",
+  "size": 142729328,
+  "notes": "처음 켤 때 버튼을 짚어 주는 둘러보기 (← → 넘기기 · 건너뛰기)",
   "date": "2026-11-08",
-  "sig": "AVGcZID-k4rNFJcjsl-0dsrzEwP2vNtGmIyV3tdBNEiA7pdRWvCsdyMYY9ntSJkp9wdgqiHml0KZd4iZgOC8Aw"
+  "sig": "E3Hg9JlJ-hPAZG027zjtHBvsS_CsmwHcMn_jpidzg04cE14gvdQMGV5JIFHF1VQXHqAgOGDjKeVYF0qtoB-cCQ"
 }

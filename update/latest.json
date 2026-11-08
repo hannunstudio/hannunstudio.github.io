@@ -1,9 +1,9 @@
 {
-  "version": "1.9.93",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.93/HannunStudio-Setup-1.9.93.exe",
-  "sha256": "0277aaac026d2b2ceb1816c6ad6b4c0da480b9ee364efb47fb312c91a1a7a391",
-  "size": 142729695,
-  "notes": "보드 옵션의 어려운 말을 쉬운 말로 (캐시 · 세션 · 프로파일 등)",
+  "version": "1.9.94",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.94/HannunStudio-Setup-1.9.94.exe",
+  "sha256": "4ab5af9cb9f2bee62b67e0a4230b8e187b251fdb623d11132fc2994c6c3e79f4",
+  "size": 142733512,
+  "notes": "게임 옆 도구 탭 정리: 위에 도구 버튼만 두고 누른 것 하나만 아래에 펼침 · 계산기 · 시계 등이 잘리지 않고 패널 높이에 맞춰 커짐 · 위쪽 아이콘 버튼에 이름 표시",
   "date": "2026-11-08",
-  "sig": "Y097uYnSz1_RwGfjMZmt7lOASdtPtoZ7X-De07BI9YtkM4Qt8Muc8nHMnyzKXNF0weJChYmTAuBo6xZIDmGkDA"
+  "sig": "Pj1OGO9PyDd0fMT6ByuqtvMzawnZKd0hbIdGsE-17WEPd-eh72B1a7FyZU4iO6MnzJmayEzCtW3rGZN_iJL-BA"
 }

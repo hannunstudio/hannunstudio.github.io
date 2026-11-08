@@ -1,9 +1,9 @@
 {
-  "version": "1.9.94",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.94/HannunStudio-Setup-1.9.94.exe",
-  "sha256": "4ab5af9cb9f2bee62b67e0a4230b8e187b251fdb623d11132fc2994c6c3e79f4",
-  "size": 142733512,
-  "notes": "게임 옆 도구 탭 정리: 위에 도구 버튼만 두고 누른 것 하나만 아래에 펼침 · 계산기 · 시계 등이 잘리지 않고 패널 높이에 맞춰 커짐 · 위쪽 아이콘 버튼에 이름 표시",
+  "version": "1.9.95",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.95/HannunStudio-Setup-1.9.95.exe",
+  "sha256": "b7f9508046f9ad1ed0d32a0f13432706b098038996fb043b3e25531843ca6269",
+  "size": 142733428,
+  "notes": "버튼을 얇은 선 네온으로 다듬고 가벼운 움직임을 넣었어요. 찜 표시는 별로 바뀌었고, 게임 도구 줄의 중복 소리 단추는 뺐어요(위쪽 소리 단추와 Ctrl+M 은 그대로).",
   "date": "2026-11-08",
-  "sig": "Pj1OGO9PyDd0fMT6ByuqtvMzawnZKd0hbIdGsE-17WEPd-eh72B1a7FyZU4iO6MnzJmayEzCtW3rGZN_iJL-BA"
+  "sig": "_n1YuVFWbhQs7KJSGEeqDrSqdWZgOnsw4WD9TXBBvw_CUqsIK4EiNZGZNx56yGtHy3U5VBxyu13hmkER52mbCA"
 }

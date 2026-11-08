@@ -1,9 +1,9 @@
 {
-  "version": "1.9.7",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.7/HannunStudio-Setup-1.9.7.exe",
-  "sha256": "8cfcac964bf3e9d90a8dadc858be7df889ce9ab0aa127e959e262121f6658e24",
-  "size": 142727218,
-  "notes": "설정 정보 줄이 안 펼쳐지던 문제 · 파일 고르기 창 · 빈 화면 안내 글자 개선",
+  "version": "1.9.8",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.8/HannunStudio-Setup-1.9.8.exe",
+  "sha256": "2d93950724fbcb3e5aae08c303daeedfe022ce834d32a9d644480c2417e0866a",
+  "size": 142727312,
+  "notes": "보기 방식 버튼 자리 고정 · 메뉴 설명 추가 · 보드 FPS 표시 기본 꺼짐",
   "date": "2026-11-08",
-  "sig": "OGbnjDp37YtPOou3VLk1ltoSxpl4kOF5_IUiCqNJOSTOQ8FpXAqJKRWUTIaA8rPTPSuoEZkwqFkhZNoF9QXwAQ"
+  "sig": "26ZuTAorZZKF8sZmYDeYg_Zl7Q9LD2_NDzemfnbrPiO7R1lWmcIEpSeDIqKJoa9BKXCiiJhdWZtGsf331nuUDw"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.9.92",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.92/HannunStudio-Setup-1.9.92.exe",
-  "sha256": "d36028360f861d6ce7419aed279e200d013c51861748ab93b42c497ad6d71e38",
-  "size": 142729328,
-  "notes": "처음 켤 때 버튼을 짚어 주는 둘러보기 (← → 넘기기 · 건너뛰기)",
+  "version": "1.9.93",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.93/HannunStudio-Setup-1.9.93.exe",
+  "sha256": "0277aaac026d2b2ceb1816c6ad6b4c0da480b9ee364efb47fb312c91a1a7a391",
+  "size": 142729695,
+  "notes": "보드 옵션의 어려운 말을 쉬운 말로 (캐시 · 세션 · 프로파일 등)",
   "date": "2026-11-08",
-  "sig": "E3Hg9JlJ-hPAZG027zjtHBvsS_CsmwHcMn_jpidzg04cE14gvdQMGV5JIFHF1VQXHqAgOGDjKeVYF0qtoB-cCQ"
+  "sig": "Y097uYnSz1_RwGfjMZmt7lOASdtPtoZ7X-De07BI9YtkM4Qt8Muc8nHMnyzKXNF0weJChYmTAuBo6xZIDmGkDA"
 }

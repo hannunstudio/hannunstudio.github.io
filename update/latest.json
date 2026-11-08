@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9/HannunStudio-Setup-1.9.9.exe",
-  "sha256": "482ef38944e8ffa8fe5f0e916dcf687a5b94c1245a8e287f6977f247fb3ce79d",
-  "size": 142728270,
-  "notes": "플레이어 오른쪽 위에 닫기 버튼을 항상 표시",
+  "version": "1.9.91",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.91/HannunStudio-Setup-1.9.91.exe",
+  "sha256": "49640bb0cb6d95b39d242a0c7dc6c367dcd1be25fd356380c0d461a059ffddad",
+  "size": 142728462,
+  "notes": "처음 켤 때 한 화면 빠른 시작 안내",
   "date": "2026-11-08",
-  "sig": "l5XOF41vu3ubPgvalsPhUB-M-KCL_Rvce2rG-ULDtZR-lxH-Lp5oScLlJG9mOio6JpoTlQ4fOtu5tmUchOl2CA"
+  "sig": "AVGcZID-k4rNFJcjsl-0dsrzEwP2vNtGmIyV3tdBNEiA7pdRWvCsdyMYY9ntSJkp9wdgqiHml0KZd4iZgOC8Aw"
 }

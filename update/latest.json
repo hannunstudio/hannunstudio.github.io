@@ -1,9 +1,9 @@
 {
-  "version": "1.9.8",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.8/HannunStudio-Setup-1.9.8.exe",
-  "sha256": "2d93950724fbcb3e5aae08c303daeedfe022ce834d32a9d644480c2417e0866a",
-  "size": 142727312,
-  "notes": "보기 방식 버튼 자리 고정 · 메뉴 설명 추가 · 보드 FPS 표시 기본 꺼짐",
+  "version": "1.9.9",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9/HannunStudio-Setup-1.9.9.exe",
+  "sha256": "482ef38944e8ffa8fe5f0e916dcf687a5b94c1245a8e287f6977f247fb3ce79d",
+  "size": 142728270,
+  "notes": "플레이어 오른쪽 위에 닫기 버튼을 항상 표시",
   "date": "2026-11-08",
-  "sig": "26ZuTAorZZKF8sZmYDeYg_Zl7Q9LD2_NDzemfnbrPiO7R1lWmcIEpSeDIqKJoa9BKXCiiJhdWZtGsf331nuUDw"
+  "sig": "l5XOF41vu3ubPgvalsPhUB-M-KCL_Rvce2rG-ULDtZR-lxH-Lp5oScLlJG9mOio6JpoTlQ4fOtu5tmUchOl2CA"
 }

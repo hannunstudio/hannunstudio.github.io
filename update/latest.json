@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9992",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9992/HannunStudio-Setup-1.9.9992.exe",
-  "sha256": "6a379cb0c3762fd6b147ca4358991be13b9b46b1721231ee769c84ae0ee05951",
-  "size": 166013410,
-  "notes": "폰 터치패드: 두 번 터치하고 안 떼고 밀면 끌기(노트북 터치패드처럼)",
+  "version": "1.9.9993",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9993/HannunStudio-Setup-1.9.9993.exe",
+  "sha256": "586f43dfbcf84e9d3b9fcfb184c4944ac866aa9d23f8d4466f765f0f43550051",
+  "size": 166015472,
+  "notes": "폰에서 PC 화면을 영상으로 보기(설정에서 켜기, 터치패드 화면 ▲ → 화면 보기) · 터치패드를 길게 누르면 PC 로 바로 글자 입력",
   "date": "2026-11-09",
-  "sig": "GUHcmOIRoS7Fnbbt7TH7o8Hrw_vsjjQrkPrw5VcTgS39MU_IcDzO6m_VWL6WawEzmtvz1R0rtq8V31dRpERIBw"
+  "sig": "RMqFBqWFkhsXlUSSOHenEx1vZapAizOpxRYmDtDxiFes_-go9snCiF2Yz4ZN3PhVCMupiPW3EQcHq96ZgBkACA"
 }

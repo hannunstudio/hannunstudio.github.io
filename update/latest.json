@@ -1,9 +1,9 @@
 {
-  "version": "1.9.998",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.998/HannunStudio-Setup-1.9.998.exe",
-  "sha256": "c2b035ced560217405bafca820f450a91a776079bfd7258d2234ad3506b98c29",
-  "size": 166012507,
-  "notes": "배경이 밝을 때 위젯(계산기 등) 글씨가 안 보이던 것을 어두운 글씨로 자동 전환 · 업데이트 '확인' 버튼의 동그라미 모양 수정",
+  "version": "1.9.999",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999/HannunStudio-Setup-1.9.999.exe",
+  "sha256": "47b863072138bd0cd8b94ac355b0f10cfb745a138079c163811d7fb54ff1fd88",
+  "size": 166012876,
+  "notes": "사진 고르는 창에 '내 사진 · GIF 모아보기'(표지로 찾기) 추가 · 지도에서 영상 / 사진·GIF / ZIP / PDF 종류별로 골라 보기",
   "date": "2026-11-09",
-  "sig": "5J4p_Y-JfPLli6R7WrqiODhRCdQeQ08cnxEyMTj5GvdJKzY4FH3GClxtCpCUjmgtSD5zfev5zIf2AHKXcmSGDg"
+  "sig": "3CA2LpJgjEJ9vujqiE5LwN72lJkfLRsotd79_jo5olpzs6SGJsmg5o8K1rqz-Fi59lf5j9KIlvUVva-3FuAFAA"
 }

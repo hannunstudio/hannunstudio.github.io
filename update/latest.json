@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9994",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9994/HannunStudio-Setup-1.9.9994.exe",
-  "sha256": "3d224e36767b64fce82b1b0aa1317ab790c0b512dd10b9a1f76f3f7c6afce4e5",
-  "size": 166016037,
-  "notes": "폰 화면 보기: 연결 단계와 안 될 때 이유를 화면 위에 크게 안내 (알림이 가려지던 문제 수정)",
+  "version": "1.9.9995",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9995/HannunStudio-Setup-1.9.9995.exe",
+  "sha256": "9ee570c527f3670766cbd1ef2aae917d388615e7d89e892c119dc8de43e1084a",
+  "size": 166016726,
+  "notes": "설정 탭을 넘길 때 화면이 한 프레임씩 튀던 것 수정 · 폰 영상: 위로 밀면 이전 영상 · 아래로 밀면 다음 영상, 밀어서 넘기기를 영상 길이의 % 기준으로도 설정(⇆)",
   "date": "2026-11-09",
-  "sig": "kO4zFoIDXNChsCZScRF_1KCsT4wTKvA-G5i0lN8aPP4ReGFENemVwr9wXoBOMBWG7gLs92vVn3OOgdxP_if3BA"
+  "sig": "p0_qvulL7d7DXceFbgbISWAkhV6dvb4qeEU2pj-h7RABvs7Xl_LPcBonQMiYowWpY3fcpKTkG17ak0tSsL7FDw"
 }

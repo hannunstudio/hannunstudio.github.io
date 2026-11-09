@@ -1,9 +1,9 @@
 {
-  "version": "1.9.997",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.997/HannunStudio-Setup-1.9.997.exe",
-  "sha256": "1e9602fcd8a95e72e8ceb87f0e8422d7328acbc37caae8ba28d06bb7340e185f",
-  "size": 166011489,
-  "notes": "파일 고르기 창(배경 사진 등)에서 폴더 칸이 찌그러지고 이름이 안 보이던 것 고침",
+  "version": "1.9.998",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.998/HannunStudio-Setup-1.9.998.exe",
+  "sha256": "c2b035ced560217405bafca820f450a91a776079bfd7258d2234ad3506b98c29",
+  "size": 166012507,
+  "notes": "배경이 밝을 때 위젯(계산기 등) 글씨가 안 보이던 것을 어두운 글씨로 자동 전환 · 업데이트 '확인' 버튼의 동그라미 모양 수정",
   "date": "2026-11-09",
-  "sig": "1-GtPXVRBAbVzh7H3WNLb0a9YelpCqAdgajmhtvlbWVJ_oWxGTjCt1usR1J1NI7KZoitJiJERYZnW-_g5ciADA"
+  "sig": "5J4p_Y-JfPLli6R7WrqiODhRCdQeQ08cnxEyMTj5GvdJKzY4FH3GClxtCpCUjmgtSD5zfev5zIf2AHKXcmSGDg"
 }

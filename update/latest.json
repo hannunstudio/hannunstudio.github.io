@@ -1,9 +1,9 @@
 {
-  "version": "1.9.99",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99/HannunStudio-Setup-1.9.99.exe",
-  "sha256": "379d38ca83e19fb3deb35615cd10d06d0629530a5361fc4a76d643de0b641fad",
-  "size": 143119742,
-  "notes": "지도 화면에 '완전 펼치기' 단추(모든 폴더를 한꺼번에 펼쳐 위치별로 정리)와 '색 구분'(큰 폴더마다 은은한 색, 세기와 색은 직접 고르기)을 넣었어요. 홈의 지도 위젯에서도 파일에 마우스를 올리면 영상 미리보기가 나와요.",
+  "version": "1.9.991",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.991/HannunStudio-Setup-1.9.991.exe",
+  "sha256": "142c644c69c16dfc00e558abbdfdebaa5fedcdee256dfaf7129bfccce44aa380",
+  "size": 145284251,
+  "notes": "배경 사진을 4K 고화질로 교체하고 선명하게 표시 · 위젯 버튼 디자인 통일(네온)",
   "date": "2026-11-09",
-  "sig": "_nLM9DGkBNY1ttJOO5qg3VoUFbPgkfVKZOUkhjHCTNpVtjKogkyazkVuMew9cYfzd8_sSifo-GJ--HB15B0OBQ"
+  "sig": "ocoww42CEnsqWfFJFLV4sf27FWGjf8vxY6SsQzC7yGuPp37equb_z6dRcyVYW9YDQsoyq-5Ku9f3aIb6zw5LBA"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9991",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9991/HannunStudio-Setup-1.9.9991.exe",
-  "sha256": "6cd902ad5a46f82c6ef28680fc94efc5a624b3872dd480fbee6cacc65a9a281e",
-  "size": 166013264,
-  "notes": "밝은 배경에서도 폴더 카드 이름이 잘 보이게 (어두운 막 + 흰 글씨)",
+  "version": "1.9.9992",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9992/HannunStudio-Setup-1.9.9992.exe",
+  "sha256": "6a379cb0c3762fd6b147ca4358991be13b9b46b1721231ee769c84ae0ee05951",
+  "size": 166013410,
+  "notes": "폰 터치패드: 두 번 터치하고 안 떼고 밀면 끌기(노트북 터치패드처럼)",
   "date": "2026-11-09",
-  "sig": "pNi2lB1Kveb01amesqvxLxvMj8DbRHTV3XHT1f8O1BIznE1ghHTYlmUEd9CgPCq4VPUhN2JxI_TlvH37KCrICA"
+  "sig": "GUHcmOIRoS7Fnbbt7TH7o8Hrw_vsjjQrkPrw5VcTgS39MU_IcDzO6m_VWL6WawEzmtvz1R0rtq8V31dRpERIBw"
 }

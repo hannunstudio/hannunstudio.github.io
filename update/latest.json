@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9993",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9993/HannunStudio-Setup-1.9.9993.exe",
-  "sha256": "586f43dfbcf84e9d3b9fcfb184c4944ac866aa9d23f8d4466f765f0f43550051",
-  "size": 166015472,
-  "notes": "폰에서 PC 화면을 영상으로 보기(설정에서 켜기, 터치패드 화면 ▲ → 화면 보기) · 터치패드를 길게 누르면 PC 로 바로 글자 입력",
+  "version": "1.9.9994",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9994/HannunStudio-Setup-1.9.9994.exe",
+  "sha256": "3d224e36767b64fce82b1b0aa1317ab790c0b512dd10b9a1f76f3f7c6afce4e5",
+  "size": 166016037,
+  "notes": "폰 화면 보기: 연결 단계와 안 될 때 이유를 화면 위에 크게 안내 (알림이 가려지던 문제 수정)",
   "date": "2026-11-09",
-  "sig": "RMqFBqWFkhsXlUSSOHenEx1vZapAizOpxRYmDtDxiFes_-go9snCiF2Yz4ZN3PhVCMupiPW3EQcHq96ZgBkACA"
+  "sig": "kO4zFoIDXNChsCZScRF_1KCsT4wTKvA-G5i0lN8aPP4ReGFENemVwr9wXoBOMBWG7gLs92vVn3OOgdxP_if3BA"
 }

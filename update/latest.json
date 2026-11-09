@@ -1,9 +1,9 @@
 {
-  "version": "1.9.991",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.991/HannunStudio-Setup-1.9.991.exe",
-  "sha256": "142c644c69c16dfc00e558abbdfdebaa5fedcdee256dfaf7129bfccce44aa380",
-  "size": 145284251,
-  "notes": "배경 사진을 4K 고화질로 교체하고 선명하게 표시 · 위젯 버튼 디자인 통일(네온)",
+  "version": "1.9.992",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.992/HannunStudio-Setup-1.9.992.exe",
+  "sha256": "fc23d2dad93d3e0ce1a6d125283ad6d79fb2f8fc83509bd2f0730e8242fe936d",
+  "size": 145284374,
+  "notes": "폰 앱 업데이트가 실제로 새 버전으로 바뀌도록 고침 (PC 안의 폰 앱 파일을 최신으로 교체)",
   "date": "2026-11-09",
-  "sig": "ocoww42CEnsqWfFJFLV4sf27FWGjf8vxY6SsQzC7yGuPp37equb_z6dRcyVYW9YDQsoyq-5Ku9f3aIb6zw5LBA"
+  "sig": "un_KImEqvoPtGZU6mOe2QDlJzayiApaUbMojimNIUWKoCN2p8evssvEnukoQ7jYmKYsN76tUxqsmHREniGo0BA"
 }

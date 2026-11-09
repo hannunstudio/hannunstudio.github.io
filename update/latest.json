@@ -1,9 +1,9 @@
 {
-  "version": "1.9.95",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.95/HannunStudio-Setup-1.9.95.exe",
-  "sha256": "b7f9508046f9ad1ed0d32a0f13432706b098038996fb043b3e25531843ca6269",
-  "size": 142733428,
-  "notes": "버튼을 얇은 선 네온으로 다듬고 가벼운 움직임을 넣었어요. 찜 표시는 별로 바뀌었고, 게임 도구 줄의 중복 소리 단추는 뺐어요(위쪽 소리 단추와 Ctrl+M 은 그대로).",
-  "date": "2026-11-08",
-  "sig": "_n1YuVFWbhQs7KJSGEeqDrSqdWZgOnsw4WD9TXBBvw_CUqsIK4EiNZGZNx56yGtHy3U5VBxyu13hmkER52mbCA"
+  "version": "1.9.96",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.96/HannunStudio-Setup-1.9.96.exe",
+  "sha256": "e2de7822d441e9bbf1c7db02cf164c2ada7f8555260b18b6a060708f7e09c31b",
+  "size": 142737997,
+  "notes": "영상 낙서 메모를 넣었어요. 영상에서 D 키(또는 연필 단추)를 누르고 원하는 구간에서 마우스로 낙서하면, 다시 볼 때 그 시각에 낙서가 그려지며 나타났다가 녹아내리듯 사라져요. 재생바에 낙서 위치가 표시돼요.",
+  "date": "2026-11-09",
+  "sig": "4Vmm91Y3wgw4zYSfofZF2pAgnhw82so_6nzoBSaEXRDLrG9XN0sKdoROZpFCR15u3alz3-dMaqOG7gTygyxtCg"
 }

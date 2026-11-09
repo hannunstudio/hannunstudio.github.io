@@ -1,9 +1,9 @@
 {
-  "version": "1.9.992",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.992/HannunStudio-Setup-1.9.992.exe",
-  "sha256": "fc23d2dad93d3e0ce1a6d125283ad6d79fb2f8fc83509bd2f0730e8242fe936d",
-  "size": 145284374,
-  "notes": "폰 앱 업데이트가 실제로 새 버전으로 바뀌도록 고침 (PC 안의 폰 앱 파일을 최신으로 교체)",
+  "version": "1.9.993",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.993/HannunStudio-Setup-1.9.993.exe",
+  "sha256": "b1ed816a6a9b2041b7b1f5f306419c3b028376cc95fe7048af3ff22f36e516e1",
+  "size": 166009051,
+  "notes": "배경 사진을 AI로 고화질 확대(약 6.7K)해서 교체 · 밝은 배경 테마 7개 추가(설정 > 테마 > 밝은 날)",
   "date": "2026-11-09",
-  "sig": "un_KImEqvoPtGZU6mOe2QDlJzayiApaUbMojimNIUWKoCN2p8evssvEnukoQ7jYmKYsN76tUxqsmHREniGo0BA"
+  "sig": "tfKLAEiTXW6OEWJ3aYBIoEsWfXy8mkpRFWy4U5VcnqHNfCbUPzFRJ9rFdnhPB-fK1kkGSc7N93-nictOScLICg"
 }

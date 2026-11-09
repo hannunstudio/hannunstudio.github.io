@@ -1,9 +1,9 @@
 {
-  "version": "1.9.994",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.994/HannunStudio-Setup-1.9.994.exe",
-  "sha256": "4898ed9867e2119b0ff6915fea64e7d392f7964a32617283e410aa857b292c23",
-  "size": 166008998,
-  "notes": "폰 앱 번호를 PC 앱과 맞춤 (폰 앱 업데이트가 반복해서 뜨지 않게)",
+  "version": "1.9.995",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.995/HannunStudio-Setup-1.9.995.exe",
+  "sha256": "89bf58430e2ac2179b77fc997162edfec54bad464032cd434c4251006a67c7c4",
+  "size": 166011481,
+  "notes": "폰 리모컨: 전체 화면 터치패드(아래 ▲ 로 버튼 서랍) · 게임패드 모드(방향키/WASD) 추가",
   "date": "2026-11-09",
-  "sig": "P5dq1KwtY3yK9YK258lWWbJcLmPGnP6yCDJtqAjORePtep4TScTliUHI-77XvxIO01kDW2ELz2_5uhvWlhb5DQ"
+  "sig": "6P5CFFqNLTKZLT8iCfkAAtaFlPYNHEXHRdSEZPVcUCwCH99Um_KWuo8KUsVpKjd7EU_9A64ZJAFfRjwiqu1fBA"
 }

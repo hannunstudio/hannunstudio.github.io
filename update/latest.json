@@ -1,9 +1,9 @@
 {
-  "version": "1.9.98",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.98/HannunStudio-Setup-1.9.98.exe",
-  "sha256": "36e3e4d15cca1f81faad67d97b412b7935827d341603cbcfe19fb4f827cd4297",
-  "size": 143116352,
-  "notes": "홈의 지도 위젯에서 폴더를 누르면 그 자리에서 안으로 계속 들어가고, 영상이나 파일을 누르면 바로 열려요. 가운데를 누르면 한 칸 위로, '크게 열기'를 누르면 지도 화면이 열려요.",
+  "version": "1.9.99",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99/HannunStudio-Setup-1.9.99.exe",
+  "sha256": "379d38ca83e19fb3deb35615cd10d06d0629530a5361fc4a76d643de0b641fad",
+  "size": 143119742,
+  "notes": "지도 화면에 '완전 펼치기' 단추(모든 폴더를 한꺼번에 펼쳐 위치별로 정리)와 '색 구분'(큰 폴더마다 은은한 색, 세기와 색은 직접 고르기)을 넣었어요. 홈의 지도 위젯에서도 파일에 마우스를 올리면 영상 미리보기가 나와요.",
   "date": "2026-11-09",
-  "sig": "ydLrSSm5Uv49Ogo8SeXL7M7_8D7y02Ay9wRPJAh23A_GGkAuMOC18V7iisbDHyzweSSLlH2bD1Q4cal5tMd5Bw"
+  "sig": "_nLM9DGkBNY1ttJOO5qg3VoUFbPgkfVKZOUkhjHCTNpVtjKogkyazkVuMew9cYfzd8_sSifo-GJ--HB15B0OBQ"
 }

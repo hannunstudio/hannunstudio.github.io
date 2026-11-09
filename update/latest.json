@@ -1,9 +1,9 @@
 {
-  "version": "1.9.995",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.995/HannunStudio-Setup-1.9.995.exe",
-  "sha256": "89bf58430e2ac2179b77fc997162edfec54bad464032cd434c4251006a67c7c4",
-  "size": 166011481,
-  "notes": "폰 리모컨: 전체 화면 터치패드(아래 ▲ 로 버튼 서랍) · 게임패드 모드(방향키/WASD) 추가",
+  "version": "1.9.996",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.996/HannunStudio-Setup-1.9.996.exe",
+  "sha256": "c76a197a9f7c0294550957b2770d27ec98f92663f288199874ced29a8d6cad30",
+  "size": 166011783,
+  "notes": "폰 전체 화면 터치패드 · 게임패드 / 실사진이 없는 중국 수묵 테마는 목록에서 숨김",
   "date": "2026-11-09",
-  "sig": "6P5CFFqNLTKZLT8iCfkAAtaFlPYNHEXHRdSEZPVcUCwCH99Um_KWuo8KUsVpKjd7EU_9A64ZJAFfRjwiqu1fBA"
+  "sig": "Ca9mkxr9GvmaCyFGDTKy5-DifaIbwt4v0DOToHAFLsa4rsHTdy23f60hq6zn8__N1wV7DQfBmqeXhwpZtuVRBA"
 }

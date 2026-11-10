@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9996",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9996/HannunStudio-Setup-1.9.9996.exe",
-  "sha256": "5870e47768ce5cb5a2863ccc46421056ceb8af7fbdfffde99ea891200022350c",
-  "size": 166016179,
-  "notes": "폰에서 PC 화면 보기가 '화면을 잡지 못했어요'로 막히던 것 수정 (앱 보안 단속이 화면 잡기를 거절하던 문제)",
-  "date": "2026-11-09",
-  "sig": "P8ZsXH8vaPObk90mHTiRzglbOcaTJcuGVaIZ24Ynt8XdnXrmeTKipmopDidd2rsqS9ZZjPgP_t7KmksdGStbBQ"
+  "version": "1.9.9997",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9997/HannunStudio-Setup-1.9.9997.exe",
+  "sha256": "167393e0d644418f1483c648bb2acf50371df4f81e6b1f3ea40b1d56d9d27986",
+  "size": 166020497,
+  "notes": "새 기능: 웹 읽기 — 다른 사이트의 글을 앱 안에서 깔끔하게 읽어요 (엔터 > 웹 읽기)",
+  "date": "2026-11-10",
+  "sig": "v83HdFua3a9-_CakHpXPlZL40IZQmsA2PQapc6QRX5H4TEOvCzQeBulNwslitg73nRKisIsi3LWevybyN1M3CQ"
 }

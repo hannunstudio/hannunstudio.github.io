@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9999",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999/HannunStudio-Setup-1.9.9999.exe",
-  "sha256": "3be6acff5c83121af03490d897ff3effcdbefcff88a30c8170228e1ee13d5f24",
-  "size": 166022987,
-  "notes": "밝은 배경에서 위젯 안 카드 글씨가 안 보이던 것 수정 (카드는 어두운 바탕 + 흰 글씨)",
+  "version": "1.9.99991",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99991/HannunStudio-Setup-1.9.99991.exe",
+  "sha256": "de612250e301c41420451446a1dd8a1e46f46cfc69ee22201c29d812376fde65",
+  "size": 166021854,
+  "notes": "폰 PC 화면 보기: 영상이 안 들어오던 원인(UDP 방화벽) 대응 + 진짜 영상이 올 때만 연결됐다고 표시, 안 오면 이유 안내",
   "date": "2026-11-10",
-  "sig": "rErp-_pBlzuge97kt78pfhPn3KAcYETAuCafn7cEgid_h8Pgh7rLHCp1fpPxu2sWOr5hipEft1-gzpbhPzxcAQ"
+  "sig": "BdNGDlN7HS_HqnQ_JmmGKuDY1O691QbkF1MuKmQe4Ea1gYnfStVZH25nABZGvQjULcLkhAz48Q9BjjZBjCa7Bw"
 }

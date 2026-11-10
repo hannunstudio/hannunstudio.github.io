@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9998",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9998/HannunStudio-Setup-1.9.9998.exe",
-  "sha256": "4a65bcc3a22a2fee238bfe697cb90bec26cecca5b77d97bf0a6f54fd423fa673",
-  "size": 166022885,
-  "notes": "웹 읽기: 글 속 사진 · 영상 · 파일을 ZIP 하나로 저장하는 버튼 추가 (엔터 > 웹 읽기)",
+  "version": "1.9.9999",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999/HannunStudio-Setup-1.9.9999.exe",
+  "sha256": "3be6acff5c83121af03490d897ff3effcdbefcff88a30c8170228e1ee13d5f24",
+  "size": 166022987,
+  "notes": "밝은 배경에서 위젯 안 카드 글씨가 안 보이던 것 수정 (카드는 어두운 바탕 + 흰 글씨)",
   "date": "2026-11-10",
-  "sig": "VxZ23RmcgRZJ_kxMbzcDSl30QmfLz_omsvTUuPErwyCbSC83GRKnS5SresMw5cq2hcHjADRBO08JwRKAQ9KbCg"
+  "sig": "rErp-_pBlzuge97kt78pfhPn3KAcYETAuCafn7cEgid_h8Pgh7rLHCp1fpPxu2sWOr5hipEft1-gzpbhPzxcAQ"
 }

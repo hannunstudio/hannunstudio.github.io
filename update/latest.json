@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9997",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9997/HannunStudio-Setup-1.9.9997.exe",
-  "sha256": "167393e0d644418f1483c648bb2acf50371df4f81e6b1f3ea40b1d56d9d27986",
-  "size": 166020497,
-  "notes": "새 기능: 웹 읽기 — 다른 사이트의 글을 앱 안에서 깔끔하게 읽어요 (엔터 > 웹 읽기)",
+  "version": "1.9.9998",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9998/HannunStudio-Setup-1.9.9998.exe",
+  "sha256": "4a65bcc3a22a2fee238bfe697cb90bec26cecca5b77d97bf0a6f54fd423fa673",
+  "size": 166022885,
+  "notes": "웹 읽기: 글 속 사진 · 영상 · 파일을 ZIP 하나로 저장하는 버튼 추가 (엔터 > 웹 읽기)",
   "date": "2026-11-10",
-  "sig": "v83HdFua3a9-_CakHpXPlZL40IZQmsA2PQapc6QRX5H4TEOvCzQeBulNwslitg73nRKisIsi3LWevybyN1M3CQ"
+  "sig": "VxZ23RmcgRZJ_kxMbzcDSl30QmfLz_omsvTUuPErwyCbSC83GRKnS5SresMw5cq2hcHjADRBO08JwRKAQ9KbCg"
 }

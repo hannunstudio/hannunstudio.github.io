@@ -1,9 +1,9 @@
 {
-  "version": "1.9.99996",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99996/HannunStudio-Setup-1.9.99996.exe",
-  "sha256": "b5e54de56e99c940756df4b36fd63fff7f1402c681ccdbab56358c70185ce1fb",
-  "size": 166035108,
-  "notes": "게임 카드에 ▶ 단추와 Ctrl+Enter 로 설명 없이 바로 시작, 카드마다 ★ 찜 단추와 F 키, 설정에 '커스텀' 칸(게임·영상을 누르면 바로 시작/재생 고르기)",
+  "version": "1.9.99997",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99997/HannunStudio-Setup-1.9.99997.exe",
+  "sha256": "4dd092c02d3ce5a9c3874bd6be7259ce3a5bcbc288bf5c241f0d5a986ebe1ae1",
+  "size": 166042119,
+  "notes": "내 묶음(이름·색을 정해 영상·사진·게임·음악·책·폴더를 섞어 담기), 카드 오른쪽 클릭·상세 창의 '홈에 올리기'와 홈 위젯('내가 올린 것'·'한 개 크게'·묶음 한 줄), 설정의 '커스텀' 바로 가기",
   "date": "2026-11-11",
-  "sig": "m-OX3zkwFM40Z3bPUKukOCqFZ7d4zBMeITCzdSR5WAUpIHHwCb0I6IumZGW0jvmoNM3ZKt1kZtatQwwkpJAGDg"
+  "sig": "RbMB-1rzA6xZ3hS5KCbJOInQgWjCUsao7ct_FKUEuWXc_PTWsuZ4DMqpM1sjDHIl85pw_JmNfIQg8dfn0FMvAQ"
 }

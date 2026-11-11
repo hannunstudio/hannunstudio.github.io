@@ -1,9 +1,9 @@
 {
-  "version": "1.9.99994",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99994/HannunStudio-Setup-1.9.99994.exe",
-  "sha256": "446557fa7c52e4ad2f5daddb758a3563a3d25a883b55b1fee04de384aecc3bbf",
-  "size": 166033681,
-  "notes": "안정성: 배포 전 점검 강화 (눈에 보이는 변화는 거의 없어요). 폴더 화면의 큰 화면 카드를 쓴 뒤 홈으로 돌아가면 오류가 나던 문제를 고쳤어요",
+  "version": "1.9.99995",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99995/HannunStudio-Setup-1.9.99995.exe",
+  "sha256": "7b0296ed88b80bae127b108b57ac6e3a7e3c8dd4c72da43edeb473dcc0e7432c",
+  "size": 166032351,
+  "notes": "파일 화면의 작은 단추를 누르기 쉽게 키웠어요",
   "date": "2026-11-11",
-  "sig": "VahvP6Yhx8jjkOYogCR2NywBmT2D3IHU9cJc1NxFSjXjNnEaYskq3-A597bH6xgjHz-exMY_OGtdRwuU6wZOAQ"
+  "sig": "_I3URCKcFB36AYkP0AIDxxcPY33G_YgpNeXLxzaBxq4liDYkqD8OkBWXMIaS7tfdPqBz2J2WocrrTC5vifO7Bg"
 }

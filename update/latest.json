@@ -1,9 +1,9 @@
 {
-  "version": "1.9.99998",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99998/HannunStudio-Setup-1.9.99998.exe",
-  "sha256": "614146dce0201ad9f056e25f1a9fe7c9a2036920625be042c1f558f78da90aa9",
-  "size": 166042806,
-  "notes": "지도 위젯에 그림 보이기(위젯 크기에 맞춰 3단계), 보드 옵션 정돈(더 보기로 접기, 접힘 기억)",
+  "version": "1.9.99999",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999/HannunStudio-Setup-1.9.99999.exe",
+  "sha256": "91a2156ff3e05bc67133fefd1e85dca9dd30e4e276304a7667d7c9730628bde6",
+  "size": 166043810,
+  "notes": "안정성: 내부 구조 정리 (눈에 보이는 변화는 없어요)",
   "date": "2026-11-11",
-  "sig": "2uk1Jcgvl7A-HhESZ5Dkf7ihMD4MSvf3eAdI7xmy0v8Ks-3MnRw0pctgXpaSa4PwTlJnNoHxiGhapWlO0mZvBQ"
+  "sig": "88BTQjzjvuD6N3wi0Hjy-ZMxzabscPgRUz5d_0W2fRDYMxWDn0uK-78TDDa0gdaW5ypqLGTmWRA5wrb2tcYNCQ"
 }

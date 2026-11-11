@@ -1,9 +1,9 @@
 {
-  "version": "1.9.99995",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99995/HannunStudio-Setup-1.9.99995.exe",
-  "sha256": "7b0296ed88b80bae127b108b57ac6e3a7e3c8dd4c72da43edeb473dcc0e7432c",
-  "size": 166032351,
-  "notes": "파일 화면의 작은 단추를 누르기 쉽게 키웠어요",
+  "version": "1.9.99996",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99996/HannunStudio-Setup-1.9.99996.exe",
+  "sha256": "b5e54de56e99c940756df4b36fd63fff7f1402c681ccdbab56358c70185ce1fb",
+  "size": 166035108,
+  "notes": "게임 카드에 ▶ 단추와 Ctrl+Enter 로 설명 없이 바로 시작, 카드마다 ★ 찜 단추와 F 키, 설정에 '커스텀' 칸(게임·영상을 누르면 바로 시작/재생 고르기)",
   "date": "2026-11-11",
-  "sig": "_I3URCKcFB36AYkP0AIDxxcPY33G_YgpNeXLxzaBxq4liDYkqD8OkBWXMIaS7tfdPqBz2J2WocrrTC5vifO7Bg"
+  "sig": "m-OX3zkwFM40Z3bPUKukOCqFZ7d4zBMeITCzdSR5WAUpIHHwCb0I6IumZGW0jvmoNM3ZKt1kZtatQwwkpJAGDg"
 }

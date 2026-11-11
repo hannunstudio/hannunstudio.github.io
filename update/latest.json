@@ -1,9 +1,9 @@
 {
-  "version": "1.9.999992",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999992/HannunStudio-Setup-1.9.999992.exe",
-  "sha256": "c6375cb079c0b72f724d0de74869576c8bddfb3e937f3424ede01f8db9c170ee",
-  "size": 166046232,
-  "notes": "안정성: 내부 구조 정리 (눈에 보이는 변화는 없어요)",
+  "version": "1.9.999993",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999993/HannunStudio-Setup-1.9.999993.exe",
+  "sha256": "0900db32fd8e1b276dcc21e64df38bc355476341b8fe2743ec023c64e6dd7062",
+  "size": 166047224,
+  "notes": "홈 지도 위젯: 그림이 겹치지 않게 정돈했어요",
   "date": "2026-11-11",
-  "sig": "cYY2YPybvPq1tVo5-rXrFOXSJoOFTRB_-uD_A5Y88WmUfmT4-c6DgjJdA1CgTAjTqPflEBzHqyBZ2YENiwfuCA"
+  "sig": "7RZX7LfJMKM4Ue_LbPUOYFASIm_VXoVS12FgVV_XRWc0B_g6tX33ELl1mxiIX9rGMoo2qXx5rhM6Bjkph0AaAQ"
 }

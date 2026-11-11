@@ -1,9 +1,9 @@
 {
-  "version": "1.9.99992",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99992/HannunStudio-Setup-1.9.99992.exe",
-  "sha256": "ce181b1a2dd7190ec63dd4b4517170c4700cdb4c9be5d2483d143b61255bd474",
-  "size": 166021935,
-  "notes": "보안 강화: 폰 접속 코드를 QR 주소로 무제한 맞혀 볼 수 있던 틈을 막고, 남의 사이트 이름으로 들어오는 요청을 거절해요",
+  "version": "1.9.99993",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99993/HannunStudio-Setup-1.9.99993.exe",
+  "sha256": "9b01f5f015209f259457a22bbe0acfff7a8e409c75aed97d71977da0a387c5b2",
+  "size": 166025123,
+  "notes": "보안 강화: PC 조작(터치패드 · 키보드 · 화면 보기)은 PC 에서 허용한 폰만, 공용 네트워크 확인, 브라우저 암호화 연결(선택), 웹 읽기 주소 확인 강화",
   "date": "2026-11-11",
-  "sig": "XBTlsBGGocFhKDKBIYZXbRtTfj96APKIYeF26Va6Si9vF8yGHIC9ZTmxN3-zW_2UL7BGgGhOEtpsKa7nkxh1DA"
+  "sig": "FuquuWm-3_8VMAdmYk7R0hSiDMjVDcuwsSD2IO-OA4JjNq4qC1H5JA2r-5cI-PqRIvB4o1f0lPoNo9SoiPaHAg"
 }

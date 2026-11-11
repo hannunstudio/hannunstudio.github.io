@@ -1,9 +1,9 @@
 {
-  "version": "1.9.99999",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999/HannunStudio-Setup-1.9.99999.exe",
-  "sha256": "91a2156ff3e05bc67133fefd1e85dca9dd30e4e276304a7667d7c9730628bde6",
-  "size": 166043810,
+  "version": "1.9.999991",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999991/HannunStudio-Setup-1.9.999991.exe",
+  "sha256": "27219f38663a96af7b64880a3d4322c4ab981b8e4743e9c177cf6110551a12d0",
+  "size": 166045205,
   "notes": "안정성: 내부 구조 정리 (눈에 보이는 변화는 없어요)",
   "date": "2026-11-11",
-  "sig": "88BTQjzjvuD6N3wi0Hjy-ZMxzabscPgRUz5d_0W2fRDYMxWDn0uK-78TDDa0gdaW5ypqLGTmWRA5wrb2tcYNCQ"
+  "sig": "ebhbA1RwL1GlEevY3RYRz8iGv8OdgtlYWZ8ltDklpAKgESA_PQfAbNA4sv_53xWAIohqLZ_PiHaOSytkXeIRCQ"
 }

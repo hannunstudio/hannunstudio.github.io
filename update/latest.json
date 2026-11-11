@@ -1,9 +1,9 @@
 {
-  "version": "1.9.99997",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99997/HannunStudio-Setup-1.9.99997.exe",
-  "sha256": "4dd092c02d3ce5a9c3874bd6be7259ce3a5bcbc288bf5c241f0d5a986ebe1ae1",
-  "size": 166042119,
-  "notes": "내 묶음(이름·색을 정해 영상·사진·게임·음악·책·폴더를 섞어 담기), 카드 오른쪽 클릭·상세 창의 '홈에 올리기'와 홈 위젯('내가 올린 것'·'한 개 크게'·묶음 한 줄), 설정의 '커스텀' 바로 가기",
+  "version": "1.9.99998",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99998/HannunStudio-Setup-1.9.99998.exe",
+  "sha256": "614146dce0201ad9f056e25f1a9fe7c9a2036920625be042c1f558f78da90aa9",
+  "size": 166042806,
+  "notes": "지도 위젯에 그림 보이기(위젯 크기에 맞춰 3단계), 보드 옵션 정돈(더 보기로 접기, 접힘 기억)",
   "date": "2026-11-11",
-  "sig": "RbMB-1rzA6xZ3hS5KCbJOInQgWjCUsao7ct_FKUEuWXc_PTWsuZ4DMqpM1sjDHIl85pw_JmNfIQg8dfn0FMvAQ"
+  "sig": "2uk1Jcgvl7A-HhESZ5Dkf7ihMD4MSvf3eAdI7xmy0v8Ks-3MnRw0pctgXpaSa4PwTlJnNoHxiGhapWlO0mZvBQ"
 }

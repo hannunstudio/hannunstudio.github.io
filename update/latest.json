@@ -1,9 +1,9 @@
 {
-  "version": "1.9.99991",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99991/HannunStudio-Setup-1.9.99991.exe",
-  "sha256": "de612250e301c41420451446a1dd8a1e46f46cfc69ee22201c29d812376fde65",
-  "size": 166021854,
-  "notes": "폰 PC 화면 보기: 영상이 안 들어오던 원인(UDP 방화벽) 대응 + 진짜 영상이 올 때만 연결됐다고 표시, 안 오면 이유 안내",
-  "date": "2026-11-10",
-  "sig": "BdNGDlN7HS_HqnQ_JmmGKuDY1O691QbkF1MuKmQe4Ea1gYnfStVZH25nABZGvQjULcLkhAz48Q9BjjZBjCa7Bw"
+  "version": "1.9.99992",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99992/HannunStudio-Setup-1.9.99992.exe",
+  "sha256": "ce181b1a2dd7190ec63dd4b4517170c4700cdb4c9be5d2483d143b61255bd474",
+  "size": 166021935,
+  "notes": "보안 강화: 폰 접속 코드를 QR 주소로 무제한 맞혀 볼 수 있던 틈을 막고, 남의 사이트 이름으로 들어오는 요청을 거절해요",
+  "date": "2026-11-11",
+  "sig": "XBTlsBGGocFhKDKBIYZXbRtTfj96APKIYeF26Va6Si9vF8yGHIC9ZTmxN3-zW_2UL7BGgGhOEtpsKa7nkxh1DA"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.9.999994",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999994/HannunStudio-Setup-1.9.999994.exe",
-  "sha256": "c2bc5dc85fdc41569416e4854e22a17c5dd93c1a9edd1bdf4ff2ca1240c19260",
-  "size": 166046584,
-  "notes": "안정성: 내부 구조 정리 (눈에 보이는 변화는 없어요)",
-  "date": "2026-11-11",
-  "sig": "johoxby8I9GmHE3PnAeiZd-tWBY1o65GqkH5y3i0ELFrTTC4-wF0lc7cbwP_FK_NA8exRtw3k0lB22FyHkgNCg"
+  "version": "1.9.999995",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999995/HannunStudio-Setup-1.9.999995.exe",
+  "sha256": "4dcc795a94bb73c2a6d2002a032a2526964cf50f6d2eaa113b55ee03afaf40a1",
+  "size": 166046763,
+  "notes": "내 묶음 카드 정돈, 묶음 색 점이 제목을 가리지 않게, 밝은 테마의 정렬 상자가 잘 보이게",
+  "date": "2026-11-12",
+  "sig": "s6Sxl4sKnoacx5XsOCPhoXY37e9CB8RErNOhvNNOD3IHGHVawCWuqez7Yc3NiSU1SpQZEqAMU2voGDlMEuuYDQ"
 }

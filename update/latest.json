@@ -1,9 +1,9 @@
 {
-  "version": "1.9.999998",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999998/HannunStudio-Setup-1.9.999998.exe",
-  "sha256": "683403d28025fe5247e036ec2e85e07171b3d6548952ec26b1e48dcff2be7e4e",
-  "size": 166061455,
-  "notes": "웹 읽기: 게시판 목록 주소를 넣으면 글 목록으로 보여 줘요, 사이트 메뉴는 걸러요. 글 속 사진 · 영상은 빠짐없이 찾아서 '사진만' 보기와 눌러서 크게 보기로 볼 수 있어요",
+  "version": "1.9.999999",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999999/HannunStudio-Setup-1.9.999999.exe",
+  "sha256": "d31e0ca9155f1af4338cfcd1ec6c1fbaecee5e2caa0729ecc968fc12e4438f11",
+  "size": 166062171,
+  "notes": "눌러서 펼치는 상자가 바로 닫히던 문제를 고쳤어요",
   "date": "2026-11-12",
-  "sig": "tDclzVDR7qkv5N7mDtrXlqSaunhfiFOUN-85QUYlwqa-loe_xrpttd8wvaML7Qr0-15k36InYRfTN03avj20CQ"
+  "sig": "PkQFtuOKc6vHIPjVwi87jx-Su0q8cdWGCeJJBG-BsbkW3QoQ3m8J75PJdaWiAyfdkDmGGfXiQJkcMCJopCkfBg"
 }

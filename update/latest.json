@@ -1,9 +1,9 @@
 {
-  "version": "1.9.999999",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999999/HannunStudio-Setup-1.9.999999.exe",
-  "sha256": "d31e0ca9155f1af4338cfcd1ec6c1fbaecee5e2caa0729ecc968fc12e4438f11",
-  "size": 166062171,
-  "notes": "눌러서 펼치는 상자가 바로 닫히던 문제를 고쳤어요",
+  "version": "1.9.9999991",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999991/HannunStudio-Setup-1.9.9999991.exe",
+  "sha256": "8afc57ed2a3f5b3c9a299e183c101419604e546c27945e1f3463a41518990e4d",
+  "size": 166062847,
+  "notes": "음악 화면 정돈: 표지 · 가사 보기만 남기고 모양을 다듬었어요",
   "date": "2026-11-12",
-  "sig": "PkQFtuOKc6vHIPjVwi87jx-Su0q8cdWGCeJJBG-BsbkW3QoQ3m8J75PJdaWiAyfdkDmGGfXiQJkcMCJopCkfBg"
+  "sig": "qkITS7X3KMWZ5CQP3du450EvR54vorhe22Sakdcw7S3uvrpuXuCEKu9RiVnbW6hRbvdSmsgbBfF8sU_nffH-Cw"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.9.999995",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999995/HannunStudio-Setup-1.9.999995.exe",
-  "sha256": "4dcc795a94bb73c2a6d2002a032a2526964cf50f6d2eaa113b55ee03afaf40a1",
-  "size": 166046763,
-  "notes": "내 묶음 카드 정돈, 묶음 색 점이 제목을 가리지 않게, 밝은 테마의 정렬 상자가 잘 보이게",
+  "version": "1.9.999996",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999996/HannunStudio-Setup-1.9.999996.exe",
+  "sha256": "0dc313dd18520ce93713d7d02e372173f78b153cefb9a18339d9d9826958464d",
+  "size": 166046671,
+  "notes": "화면 다듬기: 엔터 메뉴 정리, 단추 모양 통일, 음악 표지 글자, 홈 위젯 자리, 보드 옵션 모양",
   "date": "2026-11-12",
-  "sig": "s6Sxl4sKnoacx5XsOCPhoXY37e9CB8RErNOhvNNOD3IHGHVawCWuqez7Yc3NiSU1SpQZEqAMU2voGDlMEuuYDQ"
+  "sig": "fE_Sfq4hGsC9Ztj-lfGZTl50yprlCfv3F0nQPqJRlJoaTApixqtNQRbYvkK3mpJ7lxBZWxhMBZLolwfVAiPIBw"
 }

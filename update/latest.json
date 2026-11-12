@@ -1,9 +1,9 @@
 {
-  "version": "1.9.999996",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999996/HannunStudio-Setup-1.9.999996.exe",
-  "sha256": "0dc313dd18520ce93713d7d02e372173f78b153cefb9a18339d9d9826958464d",
-  "size": 166046671,
-  "notes": "화면 다듬기: 엔터 메뉴 정리, 단추 모양 통일, 음악 표지 글자, 홈 위젯 자리, 보드 옵션 모양",
+  "version": "1.9.999997",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999997/HannunStudio-Setup-1.9.999997.exe",
+  "sha256": "a00f8f6d9fce6bd62c5daed1ea7235596079e1a5fbb18576f9bf954f2726f3ea",
+  "size": 166050830,
+  "notes": "창을 작게 줄여도 위쪽 메뉴가 겹치지 않고, 멀티 패널 도구 줄이 잘리지 않게 고쳤어요. 영어 화면의 어색한 말과 빠진 번역도 고쳤어요",
   "date": "2026-11-12",
-  "sig": "fE_Sfq4hGsC9Ztj-lfGZTl50yprlCfv3F0nQPqJRlJoaTApixqtNQRbYvkK3mpJ7lxBZWxhMBZLolwfVAiPIBw"
+  "sig": "8eblIiujkPmtH79R7Ons-v4ROxCB9gmD2kcHSE9kQvJJCYOfgKflg555l_BNLpWdDxs_wdNWA4xqwg13GQ48BQ"
 }

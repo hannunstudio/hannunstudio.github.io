@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9999992",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999992/HannunStudio-Setup-1.9.9999992.exe",
-  "sha256": "b3cb38e4206ece8fc34d4594a7b5dc94b1b41f1db7c0683d9f246e32cc0021e8",
-  "size": 166064011,
-  "notes": "더 빨라졌어요: 검색 · 지도 · 스크롤",
-  "date": "2026-11-12",
-  "sig": "5MptidXetJ7xrQJiTR2QzpN6nJ3iD8NeD99Ru-OmXvpMPh4rcRq-0V11NpIQ3PyRczLI6yUAwT4eCpqyHa2dBg"
+  "version": "1.9.9999993",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999993/HannunStudio-Setup-1.9.9999993.exe",
+  "sha256": "4d36410f14f87920169533a6ccd2886fa5caac32ebb1d2d1d808a258fb94503d",
+  "size": 166074457,
+  "notes": "안정화: 설정 상자가 닫히던 문제 고침, 오래 켜 두면 느려지던 곳 4개 고침, 업데이트가 막히면 알려 줌, 캡처·녹화 저장 안내, 메뉴·알림이 단추를 가리던 것 정리",
+  "date": "2026-11-13",
+  "sig": "4l5ewbHca3DFdO6xP0YfH8NbMCjoavZrlPPEidWVB0ZRTJEXv8BQNX4_SBkKiI_jUs1lh5ZdojAEx_KLQXVmDw"
 }

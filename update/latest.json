@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9999994",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999994/HannunStudio-Setup-1.9.9999994.exe",
-  "sha256": "2bba19768c31a55d0e94d198b5733bbbaf8a7601c86e313787e5650598c7a37a",
-  "size": 316735,
-  "notes": "라디오·팟캐스트: 방송 목록에서 골라 바로 듣기, 팟캐스트 검색·구독·이어 듣기. 웹 읽기가 막혔을 때 이유를 쉬운 말로 알려 주고 브라우저로 열기 단추 추가",
+  "version": "1.9.9999993",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999993/HannunStudio-Setup-1.9.9999993.exe",
+  "sha256": "4d36410f14f87920169533a6ccd2886fa5caac32ebb1d2d1d808a258fb94503d",
+  "size": 166074457,
+  "notes": "안정화: 설정 상자가 닫히던 문제 고침, 오래 켜 두면 느려지던 곳 4개 고침, 업데이트가 막히면 알려 줌, 캡처·녹화 저장 안내, 메뉴·알림이 단추를 가리던 것 정리",
   "date": "2026-11-13",
-  "sig": "JSmPwUG2r3PDH21kUjLo6KAyHObDOKgN0lweX83NWd_YhyKcYM18CBo6nOhpAs9hSf-j-nHKS2Aj8N2fZ6yBBA"
+  "sig": "4l5ewbHca3DFdO6xP0YfH8NbMCjoavZrlPPEidWVB0ZRTJEXv8BQNX4_SBkKiI_jUs1lh5ZdojAEx_KLQXVmDw"
 }

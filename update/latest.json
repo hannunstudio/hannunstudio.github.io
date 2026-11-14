@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9999996",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999996/HannunStudio-Setup-1.9.9999996.exe",
-  "sha256": "c5f681793c2af787c0f2a20ea873445daef82cf475b17225e28d289582cb4c16",
-  "size": 166174224,
-  "notes": "오류 안내를 쉬운 말로, 구간 자르기·GIF 만들기에 취소 단추, 끌어서 상세 정보 칸에 놓기 고침, 윈도 기본 창 대신 앱 모양 창, 움직이는 배경 위 글씨 또렷하게, 터치로 영상 닫기",
+  "version": "1.9.9999997",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999997/HannunStudio-Setup-1.9.9999997.exe",
+  "sha256": "10153109558bed65a9c485607537098015c00016761dfcdf30f39fbe5730f96c",
+  "size": 166177052,
+  "notes": "설정에 내 기록 보관·백업 추가(백업 파일 만들기·되돌리기), 지우기 확인 창에 '내 파일은 건드리지 않아요' 안내, 키보드 Tab·Esc 점검 추가",
   "date": "2026-11-14",
-  "sig": "rWjahOntAmGQNKaZ2lnark4FwTv278ZDxn1Gtnw7OgrWtP26Wb3vTpWuBMPelCuC54XN6EVAwepHursScBO2BA"
+  "sig": "zX5ekmzoultTFHh1GCmSBxvLuyEQzkiKG_4hqAPaCR4TMDHbSzSWxfBJ4O0x6ptV7A3tZ47yW44DhY5fJV16DQ"
 }

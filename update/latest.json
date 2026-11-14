@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9999995",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999995/HannunStudio-Setup-1.9.9999995.exe",
-  "sha256": "5bbad2b04575dbac65ad163e750686cbbfd137d9e04eb7c59be0360b07fa7cb6",
-  "size": 166171425,
-  "notes": "SBS·MBC 라디오를 공식 플레이어로 열기, 터치 화면 지원(길게 눌러 메뉴·밀어 넘기기·두 손가락 확대·영상 두 번 건드려 10초 이동), 빈 화면 안내와 체험 남은 날 창",
+  "version": "1.9.9999996",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999996/HannunStudio-Setup-1.9.9999996.exe",
+  "sha256": "c5f681793c2af787c0f2a20ea873445daef82cf475b17225e28d289582cb4c16",
+  "size": 166174224,
+  "notes": "오류 안내를 쉬운 말로, 구간 자르기·GIF 만들기에 취소 단추, 끌어서 상세 정보 칸에 놓기 고침, 윈도 기본 창 대신 앱 모양 창, 움직이는 배경 위 글씨 또렷하게, 터치로 영상 닫기",
   "date": "2026-11-14",
-  "sig": "ZZp_KhH8Sp17poZ4uuAM0zTUzCg56UhWRIxQTs7SfEePdkpRM63sh6lcVOUu6JU8Oq-6lVD4VJHrppv62mCJDQ"
+  "sig": "rWjahOntAmGQNKaZ2lnark4FwTv278ZDxn1Gtnw7OgrWtP26Wb3vTpWuBMPelCuC54XN6EVAwepHursScBO2BA"
 }

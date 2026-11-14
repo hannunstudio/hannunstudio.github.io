@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9999994",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999994/HannunStudio-Setup-1.9.9999994.exe",
-  "sha256": "5b627f05e4254a1c864ffdb7488c4c527a32735633e1e7d011b6451ae16ffc84",
-  "size": 166167161,
-  "notes": "라디오·팟캐스트: 방송 목록에서 골라 바로 듣기, 팟캐스트 검색·구독·이어 듣기. 웹 읽기가 막혔을 때 이유를 쉬운 말로 알려 주고 브라우저로 열기 단추 추가",
-  "date": "2026-11-13",
-  "sig": "j7gMXqvwFPzKTJz9XNZwjEYGxu7B-KmhRfXHL_Zi6dM5fmASDsLzODdXB_MBhD6OBt_X5UFQ55bKJZvM9CaeDA"
+  "version": "1.9.9999995",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999995/HannunStudio-Setup-1.9.9999995.exe",
+  "sha256": "5bbad2b04575dbac65ad163e750686cbbfd137d9e04eb7c59be0360b07fa7cb6",
+  "size": 166171425,
+  "notes": "SBS·MBC 라디오를 공식 플레이어로 열기, 터치 화면 지원(길게 눌러 메뉴·밀어 넘기기·두 손가락 확대·영상 두 번 건드려 10초 이동), 빈 화면 안내와 체험 남은 날 창",
+  "date": "2026-11-14",
+  "sig": "ZZp_KhH8Sp17poZ4uuAM0zTUzCg56UhWRIxQTs7SfEePdkpRM63sh6lcVOUu6JU8Oq-6lVD4VJHrppv62mCJDQ"
 }

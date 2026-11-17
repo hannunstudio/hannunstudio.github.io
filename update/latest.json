@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9999999",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999999/HannunStudio-Setup-1.9.9999999.exe",
-  "sha256": "bb01edeb2f5dcf1077f84a298bbed4fde0a6498d84a8c1d9808801c4b976f95a",
-  "size": 166188727,
-  "notes": "SBS 라디오가 주소창 없는 작은 창으로 깔끔하게 열려요\n업데이트한 뒤 무엇이 바뀌었는지 한 번 알려 드려요 (설정 → 정보에서 다시 보기)",
+  "version": "1.9.99999991",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999991/HannunStudio-Setup-1.9.99999991.exe",
+  "sha256": "2bb6c8b0438461e6905ffe43b6685b87e2ffde229ed7ca47e2269bd94aeab035",
+  "size": 166201240,
+  "notes": "정품 키를 검로드에서 산 키로 등록할 수 있어요\n잠들기 타이머(라디오 · 팟캐스트 · 음악)와 최근 들은 것\n영어 화면에 남아 있던 한글과 잘린 글자를 고쳤어요",
   "date": "2026-11-17",
-  "sig": "k-nEO67qTK616NMKMHWteyN8MvcizBg4V4nC9V7qAH6ktFjNe_FusQ2iE22J2bR51gA134sWeUeuSFREvaaBBg"
+  "sig": "CJPq9Y4PpA8-UxXOZLn4xEsira5o5fTqzPf7wZq81YzO35aVjdez5LugwLqJjgaYLcjINZoWv5-HBzv167-SDg"
 }

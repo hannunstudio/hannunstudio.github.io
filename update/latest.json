@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9999998",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999998/HannunStudio-Setup-1.9.9999998.exe",
-  "sha256": "6ab6d7be7173196d8a8684a915c61b30ad9f1fd05ccd933ece08ca3ff0c18318",
-  "size": 166185435,
-  "notes": "앱 안 브라우저 창(웹 읽기가 막힌 사이트·공식 라디오를 앱 안에서, 읽기 모드), 파일 복사·옮기기 진행 표시와 안전한 취소",
+  "version": "1.9.9999999",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999999/HannunStudio-Setup-1.9.9999999.exe",
+  "sha256": "bb01edeb2f5dcf1077f84a298bbed4fde0a6498d84a8c1d9808801c4b976f95a",
+  "size": 166188727,
+  "notes": "SBS 라디오가 주소창 없는 작은 창으로 깔끔하게 열려요\n업데이트한 뒤 무엇이 바뀌었는지 한 번 알려 드려요 (설정 → 정보에서 다시 보기)",
   "date": "2026-11-17",
-  "sig": "4jSaNBMt7MujFIKHB4AHzEhcNnFNJvoPY3TcznSZ_GzgQUSGNDOPfSOCmxopxaR83-osP1o34S5dYBPNq6qODg"
+  "sig": "k-nEO67qTK616NMKMHWteyN8MvcizBg4V4nC9V7qAH6ktFjNe_FusQ2iE22J2bR51gA134sWeUeuSFREvaaBBg"
 }

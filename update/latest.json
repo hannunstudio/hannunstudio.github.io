@@ -1,9 +1,9 @@
 {
-  "version": "1.9.9999997",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999997/HannunStudio-Setup-1.9.9999997.exe",
-  "sha256": "10153109558bed65a9c485607537098015c00016761dfcdf30f39fbe5730f96c",
-  "size": 166177052,
-  "notes": "설정에 내 기록 보관·백업 추가(백업 파일 만들기·되돌리기), 지우기 확인 창에 '내 파일은 건드리지 않아요' 안내, 키보드 Tab·Esc 점검 추가",
-  "date": "2026-11-14",
-  "sig": "zX5ekmzoultTFHh1GCmSBxvLuyEQzkiKG_4hqAPaCR4TMDHbSzSWxfBJ4O0x6ptV7A3tZ47yW44DhY5fJV16DQ"
+  "version": "1.9.9999998",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.9999998/HannunStudio-Setup-1.9.9999998.exe",
+  "sha256": "6ab6d7be7173196d8a8684a915c61b30ad9f1fd05ccd933ece08ca3ff0c18318",
+  "size": 166185435,
+  "notes": "앱 안 브라우저 창(웹 읽기가 막힌 사이트·공식 라디오를 앱 안에서, 읽기 모드), 파일 복사·옮기기 진행 표시와 안전한 취소",
+  "date": "2026-11-17",
+  "sig": "4jSaNBMt7MujFIKHB4AHzEhcNnFNJvoPY3TcznSZ_GzgQUSGNDOPfSOCmxopxaR83-osP1o34S5dYBPNq6qODg"
 }

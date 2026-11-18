@@ -1,10 +1,10 @@
 {
-  "version": "1.9.99999994",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999994/HannunStudio-Setup-1.9.99999994.exe",
-  "sha256": "2f95a1538e5b66db92a014cf3144a0b513126d29a8dc0f62511bc9a9decf66ea",
-  "size": 166206849,
-  "notes": "음악 · 라디오를 키보드 미디어 키와 작업표시줄 단추로 다룰 수 있어요\n영상 소리가 나면 음악이 잠깐 멈춰요(영상 닫으면 이어 틀기 설정)\n음악 걸러내기를 위쪽 칩 하나로 정리했어요\n홈 종류 카드가 어느 화면 크기에서도 한 줄에 들어가요",
-  "notesEn": "Control music and radio with media keys and taskbar buttons\nMusic pauses while a video plays sound (optional resume after)\nMusic filters are now just the chips at the top\nHome category cards fit on one row at any size",
+  "version": "1.9.99999995",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999995/HannunStudio-Setup-1.9.99999995.exe",
+  "sha256": "a9d6ff3145dc30632df60c6d76d40b5f50562eff2ba8591601a2fc993934e27c",
+  "size": 166207097,
+  "notes": "지도 화면 등에서 켜진 단추가 확실히 보여요(채운 색 + ✓)\n'완전 펼치기'를 다시 누르면 접혀요",
+  "notesEn": "Toggle buttons now clearly show when they are on (filled + check)\nPress 'Expand all' again to fold back",
   "date": "2026-11-18",
-  "sig": "5NpAahb4BSoDSWRiWA8vIWBM4XcvHkOJrA9ksP_SbgPyVP9E-YYP9o124EFLrVa4-o89CIfCGPbxcYepNNK2DA"
+  "sig": "XqnotV7pfU-1sSPsz6ADe3tj67na5sELV1dcWUjQ_D0q2eE_TUH92DeBjEL4O8m0D6CmtPVOxx0gqXa4ZkT-Dw"
 }

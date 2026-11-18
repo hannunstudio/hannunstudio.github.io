@@ -1,10 +1,10 @@
 {
-  "version": "1.9.99999995",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999995/HannunStudio-Setup-1.9.99999995.exe",
-  "sha256": "a9d6ff3145dc30632df60c6d76d40b5f50562eff2ba8591601a2fc993934e27c",
-  "size": 166207097,
-  "notes": "지도 화면 등에서 켜진 단추가 확실히 보여요(채운 색 + ✓)\n'완전 펼치기'를 다시 누르면 접혀요",
-  "notesEn": "Toggle buttons now clearly show when they are on (filled + check)\nPress 'Expand all' again to fold back",
+  "version": "1.9.99999996",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999996/HannunStudio-Setup-1.9.99999996.exe",
+  "sha256": "e52c69eba5829b440fb7dfc004e8a3be902d68ebfeadd2d3b38a17447232a5f3",
+  "size": 166207475,
+  "notes": "영상을 틀면 음악이 멈추는 것이 기본이 됐어요 (설정에서 바꿀 수 있어요)\n영어 화면에서 작업표시줄 단추 이름도 영어로 나와요",
+  "notesEn": "Playing a video now pauses music by default (changeable in Settings)\nTaskbar buttons now follow the app language",
   "date": "2026-11-18",
-  "sig": "XqnotV7pfU-1sSPsz6ADe3tj67na5sELV1dcWUjQ_D0q2eE_TUH92DeBjEL4O8m0D6CmtPVOxx0gqXa4ZkT-Dw"
+  "sig": "SqbzN61W3jkgi_3y2gDmvjOyTszL_HiaDLLm_u-Lw9t8s4AxIrujduys41HO6_ldI3TN56J79YAq_tBFEY11Dg"
 }

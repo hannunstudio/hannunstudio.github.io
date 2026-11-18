@@ -1,10 +1,10 @@
 {
-  "version": "1.9.99999993",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999993/HannunStudio-Setup-1.9.99999993.exe",
-  "sha256": "a6cb3f41cca8552fb32ba9885811196f7718d32b0b828947bd026be1ee36760f",
-  "size": 166203432,
-  "notes": "홈에 팟캐스트 위젯이 생겼어요(새 회차 · 이어 듣기)\n상세 패널의 아이콘 단추를 '⋯' 메뉴 하나로 묶었어요",
-  "notesEn": "New podcast widget on Home (new episodes, resume)\nDetail panel icon buttons are now in one '...' menu",
+  "version": "1.9.99999994",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999994/HannunStudio-Setup-1.9.99999994.exe",
+  "sha256": "2f95a1538e5b66db92a014cf3144a0b513126d29a8dc0f62511bc9a9decf66ea",
+  "size": 166206849,
+  "notes": "음악 · 라디오를 키보드 미디어 키와 작업표시줄 단추로 다룰 수 있어요\n영상 소리가 나면 음악이 잠깐 멈춰요(영상 닫으면 이어 틀기 설정)\n음악 걸러내기를 위쪽 칩 하나로 정리했어요\n홈 종류 카드가 어느 화면 크기에서도 한 줄에 들어가요",
+  "notesEn": "Control music and radio with media keys and taskbar buttons\nMusic pauses while a video plays sound (optional resume after)\nMusic filters are now just the chips at the top\nHome category cards fit on one row at any size",
   "date": "2026-11-18",
-  "sig": "D0Ac--6E6P-Z1zwmkzlszSMwo4rpUvvBM0DbfL7BiVTW5TIzhfRN6ognmy0LKVZGbfd3JUj8SuUzmagZDH0kBQ"
+  "sig": "5NpAahb4BSoDSWRiWA8vIWBM4XcvHkOJrA9ksP_SbgPyVP9E-YYP9o124EFLrVa4-o89CIfCGPbxcYepNNK2DA"
 }

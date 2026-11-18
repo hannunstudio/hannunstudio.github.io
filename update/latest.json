@@ -1,10 +1,10 @@
 {
-  "version": "1.9.99999992",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999992/HannunStudio-Setup-1.9.99999992.exe",
-  "sha256": "4cd6e8d396ece7f1c6a7925ee1bcceda94b6c276b6c516a25da2b02d71007e6e",
-  "size": 166200813,
-  "notes": "메모 · 사진의 단추 이름을 알기 쉽게 맞췄어요\n멀티 화면의 속도 단추에 이름을 붙였어요\n오래 켜 두기 · 속도 점검을 다시 했어요",
-  "notesEn": "Clearer button names in notes and photos\nLabeled the speed buttons in multi view\nRe-checked long running and speed",
-  "date": "2026-11-17",
-  "sig": "pzB-GM0RdxZiWuniDt6QfD2id13DNvyKLT4ptD3mE-wsTnlEhbf3Am-DRUd13m08A15aEljJ3FKT5KavK19wDg"
+  "version": "1.9.99999993",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999993/HannunStudio-Setup-1.9.99999993.exe",
+  "sha256": "a6cb3f41cca8552fb32ba9885811196f7718d32b0b828947bd026be1ee36760f",
+  "size": 166203432,
+  "notes": "홈에 팟캐스트 위젯이 생겼어요(새 회차 · 이어 듣기)\n상세 패널의 아이콘 단추를 '⋯' 메뉴 하나로 묶었어요",
+  "notesEn": "New podcast widget on Home (new episodes, resume)\nDetail panel icon buttons are now in one '...' menu",
+  "date": "2026-11-18",
+  "sig": "D0Ac--6E6P-Z1zwmkzlszSMwo4rpUvvBM0DbfL7BiVTW5TIzhfRN6ognmy0LKVZGbfd3JUj8SuUzmagZDH0kBQ"
 }

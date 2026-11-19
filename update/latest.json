@@ -1,10 +1,10 @@
 {
-  "version": "1.9.99999996",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999996/HannunStudio-Setup-1.9.99999996.exe",
-  "sha256": "e52c69eba5829b440fb7dfc004e8a3be902d68ebfeadd2d3b38a17447232a5f3",
-  "size": 166207475,
-  "notes": "영상을 틀면 음악이 멈추는 것이 기본이 됐어요 (설정에서 바꿀 수 있어요)\n영어 화면에서 작업표시줄 단추 이름도 영어로 나와요",
-  "notesEn": "Playing a video now pauses music by default (changeable in Settings)\nTaskbar buttons now follow the app language",
-  "date": "2026-11-18",
-  "sig": "SqbzN61W3jkgi_3y2gDmvjOyTszL_HiaDLLm_u-Lw9t8s4AxIrujduys41HO6_ldI3TN56J79YAq_tBFEY11Dg"
+  "version": "1.9.99999997",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999997/HannunStudio-Setup-1.9.99999997.exe",
+  "sha256": "d163a929c1959752d08c1e1382c6209ea4aad6e8b8a689d975489eabd6501ad1",
+  "size": 166224113,
+  "notes": "웹과 게임을 본 창 안 탭으로 열어요. 런처 게임 붙이기를 안정시키고, 안티치트 게임은 기본으로 붙이지 않아요.",
+  "notesEn": "Web browser and games now open as tabs inside the main window. Launcher games embed more reliably; anti-cheat games are not embedded by default.",
+  "date": "2026-11-19",
+  "sig": "GDIUO0H2D_hJmBIRHjs8UyHxRfzR0PBBD39c2TxaU-QKZS7jgYz-vXDXAKqR6y4m8WolBo9cxZMAE6anxuOzBA"
 }

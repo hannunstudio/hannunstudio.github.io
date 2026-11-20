@@ -1,10 +1,10 @@
 {
-  "version": "1.9.99999997",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999997/HannunStudio-Setup-1.9.99999997.exe",
-  "sha256": "d163a929c1959752d08c1e1382c6209ea4aad6e8b8a689d975489eabd6501ad1",
-  "size": 166224113,
-  "notes": "웹과 게임을 본 창 안 탭으로 열어요. 런처 게임 붙이기를 안정시키고, 안티치트 게임은 기본으로 붙이지 않아요.",
-  "notesEn": "Web browser and games now open as tabs inside the main window. Launcher games embed more reliably; anti-cheat games are not embedded by default.",
-  "date": "2026-11-19",
-  "sig": "GDIUO0H2D_hJmBIRHjs8UyHxRfzR0PBBD39c2TxaU-QKZS7jgYz-vXDXAKqR6y4m8WolBo9cxZMAE6anxuOzBA"
+  "version": "1.9.99999998",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999998/HannunStudio-Setup-1.9.99999998.exe",
+  "sha256": "bdfffd226fbc86600a8874dcce5b16311e345b4e59ad47f551d86289e658ed67",
+  "size": 166264535,
+  "notes": "새 보기 방식: 한눈 지도(지도로 보기), 사진·영상의 시간의 강(3D로 거슬러 올라가기), 음악·책의 나의 진열장(책 꺼내 펼치기, 끌어서 옮기기, 두께=쪽수). 움직임 줄이기·가벼운 화면 설정 추가.",
+  "notesEn": "New views: Atlas map view, a 3D time river for photos and videos, and a bookshelf view for music and books (pull a book out to read, drag to rearrange, thickness follows page count). Added reduce-motion and lightweight-graphics settings.",
+  "date": "2026-11-20",
+  "sig": "EHN538xWlIiDipMCWyrXYDqTTMOowOWkinDRrkOGdh9ivhffEnZZLhWtAd5VfcH4y2zcAxMK6YaCfONM0sU1Bw"
 }

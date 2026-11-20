@@ -1,10 +1,10 @@
 {
-  "version": "1.9.99999998",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999998/HannunStudio-Setup-1.9.99999998.exe",
-  "sha256": "bdfffd226fbc86600a8874dcce5b16311e345b4e59ad47f551d86289e658ed67",
-  "size": 166264535,
-  "notes": "새 보기 방식: 한눈 지도(지도로 보기), 사진·영상의 시간의 강(3D로 거슬러 올라가기), 음악·책의 나의 진열장(책 꺼내 펼치기, 끌어서 옮기기, 두께=쪽수). 움직임 줄이기·가벼운 화면 설정 추가.",
-  "notesEn": "New views: Atlas map view, a 3D time river for photos and videos, and a bookshelf view for music and books (pull a book out to read, drag to rearrange, thickness follows page count). Added reduce-motion and lightweight-graphics settings.",
+  "version": "1.9.99999999",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999999/HannunStudio-Setup-1.9.99999999.exe",
+  "sha256": "64978d607c18aeb66c9d8cf7ee9d7ac591069f16a43a26361e002e17bfbe45b3",
+  "size": 174599474,
+  "notes": "한눈 도서관(책장 한 칸 = 폴더, 책 꺼내기·옮기기, 내용으로 분류, 층과 관)과 한눈 라운지(차고를 고친 거실: 오디오 벽·LP·턴테이블, 카오디오 라디오, 빔 스크린, 실제 해 위치와 자동 전등). 3D 화면이 창 전체를 감싸는 몰입 화면.",
+  "notesEn": "Hannun Library (each shelf cell is a folder; pull, drag and reshelve books; content-based categories; floors and halls) and Hannun Lounge (a converted garage living room with an audio wall, LP shelf and turntable, a car-stereo radio, a drop-down projector screen, real sun position and automatic lamps). 3D spaces now fill the whole window with glass menus on top.",
   "date": "2026-11-20",
-  "sig": "EHN538xWlIiDipMCWyrXYDqTTMOowOWkinDRrkOGdh9ivhffEnZZLhWtAd5VfcH4y2zcAxMK6YaCfONM0sU1Bw"
+  "sig": "SaJNh2-ClgGMGM565DtxuowZx7fK59gl3fdNtdHlZemL5PS-KVY9DLtx_3ad19neTRwPeXY3WIwQPC_jL-2ODA"
 }

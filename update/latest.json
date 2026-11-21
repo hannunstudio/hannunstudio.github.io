@@ -1,10 +1,10 @@
 {
-  "version": "1.9.99999999",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999999/HannunStudio-Setup-1.9.99999999.exe",
-  "sha256": "64978d607c18aeb66c9d8cf7ee9d7ac591069f16a43a26361e002e17bfbe45b3",
-  "size": 174599474,
-  "notes": "한눈 도서관(책장 한 칸 = 폴더, 책 꺼내기·옮기기, 내용으로 분류, 층과 관)과 한눈 라운지(차고를 고친 거실: 오디오 벽·LP·턴테이블, 카오디오 라디오, 빔 스크린, 실제 해 위치와 자동 전등). 3D 화면이 창 전체를 감싸는 몰입 화면.",
-  "notesEn": "Hannun Library (each shelf cell is a folder; pull, drag and reshelve books; content-based categories; floors and halls) and Hannun Lounge (a converted garage living room with an audio wall, LP shelf and turntable, a car-stereo radio, a drop-down projector screen, real sun position and automatic lamps). 3D spaces now fill the whole window with glass menus on top.",
-  "date": "2026-11-20",
-  "sig": "SaJNh2-ClgGMGM565DtxuowZx7fK59gl3fdNtdHlZemL5PS-KVY9DLtx_3ad19neTRwPeXY3WIwQPC_jL-2ODA"
+  "version": "1.9.999999991",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999999991/HannunStudio-Setup-1.9.999999991.exe",
+  "sha256": "b8690583bea2764c3cab7b5f18f5db62c5186c7305dfdf462185829777b62144",
+  "size": 176732624,
+  "notes": "라운지가 더 아늑해졌어요: 부클레 곡선 소파, 니트 담요, 나무 라디오 탁자, 멈추면 더 선명해지는 화면. 그래픽이 끊겨도 라운지가 스스로 다시 살아나요",
+  "notesEn": "Lounge: boucle curved sofa, knit blanket, wood radio table, sharper still frames, recovers from graphics loss",
+  "date": "2026-11-21",
+  "sig": "SGKbvqa7-BRtEnKTI6d593dzEd7MDL1urzi7qAA3k7hERHPhIF4ADI5SMcThSz-We3evBlmp811HnZJvzDTBDg"
 }

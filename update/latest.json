@@ -1,10 +1,10 @@
 {
-  "version": "1.9.99999999",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999999/HannunStudio-Setup-1.9.99999999.exe",
-  "sha256": "64978d607c18aeb66c9d8cf7ee9d7ac591069f16a43a26361e002e17bfbe45b3",
-  "size": 174599474,
-  "notes": "한눈 도서관(책장 한 칸 = 폴더, 책 꺼내기·옮기기, 내용으로 분류, 층과 관)과 한눈 라운지(차고를 고친 거실: 오디오 벽·LP·턴테이블, 카오디오 라디오, 빔 스크린, 실제 해 위치와 자동 전등). 3D 화면이 창 전체를 감싸는 몰입 화면.",
-  "notesEn": "Hannun Library (each shelf cell is a folder; pull, drag and reshelve books; content-based categories; floors and halls) and Hannun Lounge (a converted garage living room with an audio wall, LP shelf and turntable, a car-stereo radio, a drop-down projector screen, real sun position and automatic lamps). 3D spaces now fill the whole window with glass menus on top.",
-  "date": "2026-11-20",
-  "sig": "SaJNh2-ClgGMGM565DtxuowZx7fK59gl3fdNtdHlZemL5PS-KVY9DLtx_3ad19neTRwPeXY3WIwQPC_jL-2ODA"
+  "version": "1.9.99999991",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.99999991/HannunStudio-Setup-1.9.99999991.exe",
+  "sha256": "c811ae30b1e2b6a56daadaec9548912cda8027dcf9f8a7beb1601a291a5c5cd0",
+  "size": 175226670,
+  "notes": "라운지 감성·품질: 석회 벽, 70년대 곡선 띠, 액자 벽, 사람의 흔적, 소파 다시 만들기(쿠션 틈·이음선), 재질 차이(천·가죽·나무·황동), 멈추면 사진처럼 다듬는 고화질 모드(설정에서 끄기 가능).",
+  "notesEn": "Lounge look and feel: limewash walls, a 70s supergraphic, a gallery wall, lived-in props, a reworked sofa with real cushion seams, distinct fabric/leather/wood/brass materials, and a high-quality mode that refines the picture when the view is still (can be turned off in settings).",
+  "date": "2026-11-21",
+  "sig": "Apsb9D4oanvjkaMA_3clB_m8VyXbnlVvnwRGtDXRfw__3laiehRq_NBK0UwnPEiKNdCqY1GjzX7_d64A8W2sBg"
 }

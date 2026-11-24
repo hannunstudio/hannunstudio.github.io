@@ -1,10 +1,10 @@
 {
-  "version": "1.9.999999992",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999999992/HannunStudio-Setup-1.9.999999992.exe",
-  "sha256": "a12bae5c9897b988c3d7ba93116267072ff9fe768d7c33a13d761bf62e565591",
-  "size": 176742371,
-  "notes": "카드 단축키(Space 재생 · O 폴더 · I 정보 창), 영상 왼쪽 장면 줄로 여러 구간 골라 자르기 · GIF · 캡처, 유니티 게임 그림 풀어서 저장, 라운지 서재 다듬기",
-  "notesEn": "Card shortcuts (Space play, O folder, I info), scene strip in the player for multi-range cut, GIF and capture, Unity game image export, lounge study polish",
+  "version": "1.9.999999993",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999999993/HannunStudio-Setup-1.9.999999993.exe",
+  "sha256": "10e24443b6b0e5353c49d148146dd06e699bd17ead89e4cacbdea9c1c7a62b1e",
+  "size": 176744603,
+  "notes": "게임 그림 보기에 유니티 게임 그림도 보여요 (처음 한 번 풀어 둠)",
+  "notesEn": "Game image viewer now shows Unity game images too (unpacked once on first open)",
   "date": "2026-11-24",
-  "sig": "HBGT0AYFkerKiab3pOVBJ4p63DqnitQ5AEfAeaVM24YO7DL_FvRJQ2kXhqglFt9xQA1JzYHByKJ6FDYFt2IVAw"
+  "sig": "TzrEcLVSY_ioVYw35ZMxrQ2MREwDxSc0cXgcfWwKRt9CZR5Cm0bb0nuJsCe6Vq3ObN65Vb616ttnVFs-F-J9AQ"
 }

@@ -1,10 +1,10 @@
 {
-  "version": "1.9.999999993",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999999993/HannunStudio-Setup-1.9.999999993.exe",
-  "sha256": "10e24443b6b0e5353c49d148146dd06e699bd17ead89e4cacbdea9c1c7a62b1e",
-  "size": 176744603,
-  "notes": "게임 그림 보기에 유니티 게임 그림도 보여요 (처음 한 번 풀어 둠)",
-  "notesEn": "Game image viewer now shows Unity game images too (unpacked once on first open)",
-  "date": "2026-11-24",
-  "sig": "TzrEcLVSY_ioVYw35ZMxrQ2MREwDxSc0cXgcfWwKRt9CZR5Cm0bb0nuJsCe6Vq3ObN65Vb616ttnVFs-F-J9AQ"
+  "version": "1.9.999999994",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999999994/HannunStudio-Setup-1.9.999999994.exe",
+  "sha256": "71bb806d0ed375ab437963468aca3d8137c9109c6c774e0ce734dfc0061e2def",
+  "size": 176760042,
+  "notes": "게임 그림 보기: 렌파이 · 옛 RPG 만들기 압축 안 그림, 유니티 압축 묶음 · 고화질(BC7) 그림, 게임 안 글 보기 / 브라우저 글 목록에서 글 안 들어가고 그림 받기 (디시 · 아카 · 에펨)",
+  "notesEn": "Game image viewer: Ren'Py and RPG Maker XP/VX archives, Unity bundles and BC7 images, in-game text viewer / Browser: grab a post's images from the list without opening it",
+  "date": "2026-11-25",
+  "sig": "8HvDnlHQzqB4qlQetJO04zF4KCQEmakBfPDKoYkhwNbjfgX4qZJ9OzaUmKgXWse-MNk5fcYocD7hCRetozKJDg"
 }

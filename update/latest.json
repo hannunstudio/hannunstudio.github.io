@@ -1,10 +1,10 @@
 {
-  "version": "1.9.999999996",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999999996/HannunStudio-Setup-1.9.999999996.exe",
-  "sha256": "12e7e6435804f6a758f0feee079df428e174ac8fbfcf491072ede5a9513ed5a1",
-  "size": 176782855,
-  "notes": "앱 안 브라우저에 북마크 줄 · 북마크 · 방문 기록 · 비밀 탭이 생겼어요. 압축 풀기를 취소할 수 있고, 작업 창으로 따로 빼서 볼 수 있어요",
-  "notesEn": "Bookmarks bar, bookmarks, history and private tabs in the in-app browser. Extraction can be cancelled and followed in a separate work window.",
+  "version": "1.9.999999997",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999999997/HannunStudio-Setup-1.9.999999997.exe",
+  "sha256": "41007388e101de627dc30649c25e471bbd3776a201daeef6fee7b402dd151b8d",
+  "size": 176782791,
+  "notes": "파일 지도에서 문서 · 발표 · 표 · 음악 · 게임까지 고를 수 있고 종류를 켜고 끌 수 있어요. 음악 재생 줄이 웹 브라우저 · 게임 화면에서도 보여요. 보기의 지도로 보기는 다듬을 때까지 잠시 뺐어요",
+  "notesEn": "More file types on the file map with on/off choices. The music bar now stays visible on the browser and game views. The map button in View is on hold.",
   "date": "2026-11-27",
-  "sig": "PWUSbN11T6uc1KjE1HBFbhS2oUaoxZXm235tCgE5q0NTmHmD1-Dm8Q_albAyAKeT09XHYFLAwDgzAPbuA0tBAA"
+  "sig": "FJoftW4FS_jZ-MQyr4Dk8JbAZ7Xhm7vt3qJmVv6g23oNewOMtZc11NzG7lrib5Dpo1F730p3PwzgIyyvVSUsCw"
 }

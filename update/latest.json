@@ -1,10 +1,10 @@
 {
-  "version": "1.9.999999995",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999999995/HannunStudio-Setup-1.9.999999995.exe",
-  "sha256": "5c931c57610128a934fe6996dbf2f2b921db36eb7e9bd87a3beada940e83ef73",
-  "size": 176763515,
-  "notes": "앱 안 브라우저에서 파일을 내려받고 바로 정리할 수 있어요: 오른쪽 내려받기 창, 실행 파일은 받기 전에 확인, 옮길 곳에 끌어다 놓기와 되돌리기, 옮길 때 압축 풀어 저장",
-  "notesEn": "Download files in the in-app browser and organize them: a side panel, confirmation before downloading programs, folder slots with undo, and optional archive extraction when moving.",
+  "version": "1.9.999999996",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999999996/HannunStudio-Setup-1.9.999999996.exe",
+  "sha256": "12e7e6435804f6a758f0feee079df428e174ac8fbfcf491072ede5a9513ed5a1",
+  "size": 176782855,
+  "notes": "앱 안 브라우저에 북마크 줄 · 북마크 · 방문 기록 · 비밀 탭이 생겼어요. 압축 풀기를 취소할 수 있고, 작업 창으로 따로 빼서 볼 수 있어요",
+  "notesEn": "Bookmarks bar, bookmarks, history and private tabs in the in-app browser. Extraction can be cancelled and followed in a separate work window.",
   "date": "2026-11-27",
-  "sig": "HGHGTmyiru4HKUSTClMCTSULZEBpaGACzAYHsFH6__HdncCDlwB6og93-L7z_CR4Ujhc10p3H4ry87H9TmmlCg"
+  "sig": "PWUSbN11T6uc1KjE1HBFbhS2oUaoxZXm235tCgE5q0NTmHmD1-Dm8Q_albAyAKeT09XHYFLAwDgzAPbuA0tBAA"
 }

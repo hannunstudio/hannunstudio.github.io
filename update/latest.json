@@ -1,10 +1,10 @@
 {
-  "version": "1.9.999999998",
-  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999999998/HannunStudio-Setup-1.9.999999998.exe",
-  "sha256": "cfa6dc7c00351f7362e7b58c444296847f41fc403a922b7e8753f7b594a2f314",
-  "size": 176784045,
-  "notes": "유튜브 뮤직을 붙였다 뗄 수 있어요 (설정에서 켜면 음악 화면에 단추가 생겨요. 로그인은 직접)",
-  "notesEn": "YouTube Music can be attached as a tab or detached into a small window. Turn it on in Settings.",
-  "date": "2026-11-27",
-  "sig": "v8UtIkA7aRv0w8Ytol4aU4xU9G6J_kjK9riStlxxQUWHtled6oUYp_YkMzjPVCex7MAYQb9_NWW7GtiZde7xDg"
+  "version": "1.9.999999999",
+  "url": "https://github.com/hannunstudio/hannunstudio.github.io/releases/download/v1.9.999999999/HannunStudio-Setup-1.9.999999999.exe",
+  "sha256": "f986c3581bae94f90188f864a8d8f81694b887ac049b67adad62e49617628c63",
+  "size": 176802587,
+  "notes": "그림 받기 누락 고침 · zip/그림으로 고르기 · 영상도 받기 · 코네 · 사이트 다운로더 저장 오류 고침 · LP 재생 줄 · 가사 찾기 · 색 테마 15종(네온) · 렉 줄이기(타임라인 · 시간의 강 · 영상 · 동시 재생)",
+  "notesEn": "Image download no longer skips pictures (zip or images, videos too, kone.gg), site downloaders can save files, LP-style music player, lyrics, 15 color themes incl. neon, faster timeline/river/video/multi playback",
+  "date": "2026-11-28",
+  "sig": "fXFp2uWmHpVnndiLgq2lmrG10Ndjn8iEW4OAEBIgZOgqPWZgeArab1iSjnRZgR_ZwwEadFu_WJVvpAqVIQ9UCA"
 }
